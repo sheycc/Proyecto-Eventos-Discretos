@@ -1,0 +1,3479 @@
+~~~~~~~~~~~~~~~~~~~~~~~~ Barajas Airport Simulation ~~~~~~~~~~~~~~~~~~~~~~~~~ 
+## Start simulation:
+~~> Minute: 16.446345048080346 
+          - Airplane 1 arrive to the airport.
+~~> Minute: 16.446345048080346 
+          - Airplane 1 comes into landingtrack 5.
+~~> Minute: 23.736876434968483 
+          - Airplane 2 arrive to the airport.
+~~> Minute: 23.736876434968483 
+          - Airplane 2 comes into landingtrack 4.
+~~> Minute: 35.071450299754716 
+          - Airplane 3 arrive to the airport.
+~~> Minute: 35.071450299754716 
+          - Airplane 3 comes into landingtrack 2.
+~~> Minute: 54.24840004990025 
+          - Airplane 4 arrive to the airport.
+~~> Minute: 54.24840004990025 
+          - Airplane 4 comes into landingtrack 1.
+~~> Minute: 74.91317379336326 
+          - Airplane 5 arrive to the airport.
+~~> Minute: 74.91317379336326 
+          - Airplane 5 comes into landingtrack 3.
+~~> Minute: 75.06039840669875 
+          - Airplane 6 arrive to the airport.
+~~> Minute: 75.06039840669875 
+          - Airplane 6 waiting to come in.
+~~> Minute: 82.84355950826706 
+          - Airplane 1 leave landingtrack 5.
+~~> Minute: 82.84355950826706 
+          - Airplane 6 comes into landingtrack 5.
+~~> Minute: 84.5357155599826 
+          - Airplane 4 leave landingtrack 1.
+~~> Minute: 89.32812957318376 
+          - Airplane 2 leave landingtrack 4.
+~~> Minute: 110.74401435130692 
+          - Airplane 7 arrive to the airport.
+~~> Minute: 110.74401435130692 
+          - Airplane 7 comes into landingtrack 1.
+~~> Minute: 115.38583550155806 
+          - Airplane 3 leave landingtrack 2.
+~~> Minute: 117.59742337584994 
+          - Airplane 8 arrive to the airport.
+~~> Minute: 117.59742337584994 
+          - Airplane 8 comes into landingtrack 4.
+~~> Minute: 123.4989204449418 
+          - Airplane 9 arrive to the airport.
+~~> Minute: 123.4989204449418 
+          - Airplane 9 comes into landingtrack 2.
+~~> Minute: 141.15984466694164 
+          - Airplane 7 leave landingtrack 1.
+~~> Minute: 144.92645488930748 
+          - Airplane 6 leave landingtrack 5.
+~~> Minute: 154.49419234068333 
+          - Airplane 8 leave landingtrack 4.
+~~> Minute: 163.83485781077533 
+          - Airplane 10 arrive to the airport.
+~~> Minute: 163.83485781077533 
+          - Airplane 10 comes into landingtrack 5.
+~~> Minute: 171.89895912761034 
+          - Airplane 11 arrive to the airport.
+~~> Minute: 171.89895912761034 
+          - Airplane 11 comes into landingtrack 4.
+~~> Minute: 189.04500453241732 
+          - Airplane 5 leave landingtrack 3.
+~~> Minute: 189.5512352210007 
+          - Airplane 12 arrive to the airport.
+~~> Minute: 189.5512352210007 
+          - Airplane 12 comes into landingtrack 1.
+~~> Minute: 194.65872022065415 
+          - Airplane 13 arrive to the airport.
+~~> Minute: 194.65872022065415 
+          - Airplane 13 comes into landingtrack 3.
+~~> Minute: 196.32615842595868 
+          - Airplane 14 arrive to the airport.
+~~> Minute: 196.32615842595868 
+          - Airplane 14 waiting to come in.
+~~> Minute: 198.1387367999726 
+          - Airplane 10 leave landingtrack 5.
+~~> Minute: 198.1387367999726 
+          - Airplane 14 comes into landingtrack 5.
+~~> Minute: 199.92513184730572 
+          - Airplane 15 arrive to the airport.
+~~> Minute: 199.92513184730572 
+          - Airplane 15 waiting to come in.
+~~> Minute: 220.51137110375615 
+          - Airplane 16 arrive to the airport.
+~~> Minute: 220.51137110375615 
+          - Airplane 16 waiting to come in.
+~~> Minute: 226.08486968583236 
+          - Airplane 9 leave landingtrack 2.
+~~> Minute: 226.08486968583236 
+          - Airplane 16 comes into landingtrack 2.
+~~> Minute: 229.96379703445444 
+          - Airplane 17 arrive to the airport.
+~~> Minute: 229.96379703445444 
+          - Airplane 17 waiting to come in.
+~~> Minute: 237.6875282525011 
+          - Airplane 18 arrive to the airport.
+~~> Minute: 237.6875282525011 
+          - Airplane 18 waiting to come in.
+~~> Minute: 238.90523436273634 
+          - Airplane 14 leave landingtrack 5.
+~~> Minute: 238.90523436273634 
+          - Airplane 18 comes into landingtrack 5.
+~~> Minute: 243.59774265003554 
+          - Airplane 11 leave landingtrack 4.
+~~> Minute: 243.59774265003554 
+          - Airplane 17 comes into landingtrack 4.
+~~> Minute: 246.7710144643919 
+          - Airplane 19 arrive to the airport.
+~~> Minute: 246.7710144643919 
+          - Airplane 19 waiting to come in.
+~~> Minute: 272.6602898504396 
+          - Airplane 12 leave landingtrack 1.
+~~> Minute: 272.6602898504396 
+          - Airplane 19 comes into landingtrack 1.
+~~> Minute: 292.8406783567086 
+          - Airplane 16 leave landingtrack 2.
+~~> Minute: 292.8406783567086 
+          - Airplane 15 comes into landingtrack 2.
+~~> Minute: 293.72116398583796 
+          - Airplane 17 leave landingtrack 4.
+~~> Minute: 305.8945384039303 
+          - Airplane 18 leave landingtrack 5.
+~~> Minute: 308.6379882031686 
+          - Airplane 19 leave landingtrack 1.
+~~> Minute: 309.7586989052012 
+          - Airplane 13 leave landingtrack 3.
+~~> Minute: 312.823595998742 
+          - Airplane 20 arrive to the airport.
+~~> Minute: 312.823595998742 
+          - Airplane 20 comes into landingtrack 3.
+~~> Minute: 327.15813455691404 
+          - Airplane 15 leave landingtrack 2.
+~~> Minute: 348.20331193206573 
+          - Airplane 21 arrive to the airport.
+~~> Minute: 348.20331193206573 
+          - Airplane 21 comes into landingtrack 1.
+~~> Minute: 351.30767830802074 
+          - Airplane 20 leave landingtrack 3.
+~~> Minute: 397.73140703800016 
+          - Airplane 22 arrive to the airport.
+~~> Minute: 397.73140703800016 
+          - Airplane 22 comes into landingtrack 3.
+~~> Minute: 409.63079506320383 
+          - Airplane 23 arrive to the airport.
+~~> Minute: 409.63079506320383 
+          - Airplane 23 comes into landingtrack 4.
+~~> Minute: 424.8406915606029 
+          - Airplane 24 arrive to the airport.
+~~> Minute: 424.8406915606029 
+          - Airplane 24 comes into landingtrack 5.
+~~> Minute: 429.9273144089378 
+          - Airplane 25 arrive to the airport.
+~~> Minute: 429.9273144089378 
+          - Airplane 25 comes into landingtrack 2.
+~~> Minute: 436.411228965042 
+          - Airplane 26 arrive to the airport.
+~~> Minute: 436.411228965042 
+          - Airplane 26 waiting to come in.
+~~> Minute: 438.4983974982594 
+          - Airplane 27 arrive to the airport.
+~~> Minute: 438.4983974982594 
+          - Airplane 27 waiting to come in.
+~~> Minute: 445.9406441708033 
+          - Airplane 21 leave landingtrack 1.
+~~> Minute: 445.9406441708033 
+          - Airplane 27 comes into landingtrack 1.
+~~> Minute: 470.1478693930843 
+          - Airplane 24 leave landingtrack 5.
+~~> Minute: 470.1478693930843 
+          - Airplane 26 comes into landingtrack 5.
+~~> Minute: 482.8877829270896 
+          - Airplane 28 arrive to the airport.
+~~> Minute: 482.8877829270896 
+          - Airplane 28 waiting to come in.
+~~> Minute: 486.35265090172516 
+          - Airplane 29 arrive to the airport.
+~~> Minute: 486.35265090172516 
+          - Airplane 29 waiting to come in.
+~~> Minute: 491.04799029924624 
+          - Airplane 22 leave landingtrack 3.
+~~> Minute: 491.04799029924624 
+          - Airplane 29 comes into landingtrack 3.
+~~> Minute: 521.516934624857 
+          - Airplane 26 leave landingtrack 5.
+~~> Minute: 521.516934624857 
+          - Airplane 28 comes into landingtrack 5.
+~~> Minute: 529.6651399993899 
+          - Airplane 30 arrive to the airport.
+~~> Minute: 529.6651399993899 
+          - Airplane 30 waiting to come in.
+~~> Minute: 530.629903075616 
+          - Airplane 23 leave landingtrack 4.
+~~> Minute: 530.629903075616 
+          - Airplane 30 comes into landingtrack 4.
+~~> Minute: 560.7911008373786 
+          - Airplane 25 leave landingtrack 2.
+~~> Minute: 567.0158025619816 
+          - Airplane 31 arrive to the airport.
+~~> Minute: 567.0158025619816 
+          - Airplane 31 comes into landingtrack 2.
+~~> Minute: 571.6621851267304 
+          - Airplane 32 arrive to the airport.
+~~> Minute: 571.6621851267304 
+          - Airplane 32 waiting to come in.
+~~> Minute: 584.3722963480989 
+          - Airplane 27 leave landingtrack 1.
+~~> Minute: 584.3722963480989 
+          - Airplane 32 comes into landingtrack 1.
+~~> Minute: 610.9880104132792 
+          - Airplane 28 leave landingtrack 5.
+~~> Minute: 612.3443361457014 
+          - Airplane 29 leave landingtrack 3.
+~~> Minute: 613.4830674904072 
+          - Airplane 30 leave landingtrack 4.
+~~> Minute: 617.6598865294923 
+          - Airplane 33 arrive to the airport.
+~~> Minute: 617.6598865294923 
+          - Airplane 33 comes into landingtrack 5.
+~~> Minute: 623.691114189148 
+          - Airplane 34 arrive to the airport.
+~~> Minute: 623.691114189148 
+          - Airplane 34 comes into landingtrack 3.
+~~> Minute: 625.496208259301 
+          - Airplane 31 leave landingtrack 2.
+~~> Minute: 629.6067949590364 
+          - Airplane 35 arrive to the airport.
+~~> Minute: 629.6067949590364 
+          - Airplane 35 comes into landingtrack 2.
+~~> Minute: 629.8966772460278 
+          - Airplane 36 arrive to the airport.
+~~> Minute: 629.8966772460278 
+          - Airplane 36 comes into landingtrack 4.
+~~> Minute: 632.2840652675641 
+          - Airplane 37 arrive to the airport.
+~~> Minute: 632.2840652675641 
+          - Airplane 37 waiting to come in.
+~~> Minute: 633.5239178812319 
+          - Airplane 38 arrive to the airport.
+~~> Minute: 633.5239178812319 
+          - Airplane 38 waiting to come in.
+~~> Minute: 636.2339531355489 
+          - Airplane 32 leave landingtrack 1.
+~~> Minute: 636.2339531355489 
+          - Airplane 38 comes into landingtrack 1.
+~~> Minute: 655.5316559690855 
+          - Airplane 39 arrive to the airport.
+~~> Minute: 655.5316559690855 
+          - Airplane 39 waiting to come in.
+~~> Minute: 662.9938957822387 
+          - Airplane 34 leave landingtrack 3.
+~~> Minute: 662.9938957822387 
+          - Airplane 39 comes into landingtrack 3.
+~~> Minute: 678.7757068566065 
+          - Airplane 35 leave landingtrack 2.
+~~> Minute: 678.7757068566065 
+          - Airplane 37 comes into landingtrack 2.
+~~> Minute: 700.00461342273 
+          - Airplane 33 leave landingtrack 5.
+~~> Minute: 713.6223811151259 
+          - Airplane 40 arrive to the airport.
+~~> Minute: 713.6223811151259 
+          - Airplane 40 comes into landingtrack 5.
+~~> Minute: 714.6922041126281 
+          - Airplane 41 arrive to the airport.
+~~> Minute: 714.6922041126281 
+          - Airplane 41 waiting to come in.
+~~> Minute: 717.1295094720327 
+          - Airplane 37 leave landingtrack 2.
+~~> Minute: 717.1295094720327 
+          - Airplane 41 comes into landingtrack 2.
+~~> Minute: 735.2805452069914 
+          - Airplane 38 leave landingtrack 1.
+~~> Minute: 740.4675055607909 
+          - Airplane 36 leave landingtrack 4.
+~~> Minute: 741.2429069360197 
+          - Airplane 42 arrive to the airport.
+~~> Minute: 741.2429069360197 
+          - Airplane 42 comes into landingtrack 4.
+~~> Minute: 760.1520960900455 
+          - Airplane 39 leave landingtrack 3.
+~~> Minute: 761.3738237762823 
+          - Airplane 41 leave landingtrack 2.
+~~> Minute: 787.4861463754484 
+          - Airplane 43 arrive to the airport.
+~~> Minute: 787.4861463754484 
+          - Airplane 43 comes into landingtrack 1.
+~~> Minute: 789.3829595520061 
+          - Airplane 44 arrive to the airport.
+~~> Minute: 789.3829595520061 
+          - Airplane 44 comes into landingtrack 2.
+~~> Minute: 795.2901106195968 
+          - Airplane 45 arrive to the airport.
+~~> Minute: 795.2901106195968 
+          - Airplane 45 comes into landingtrack 3.
+~~> Minute: 796.2690760429448 
+          - Airplane 42 leave landingtrack 4.
+~~> Minute: 809.1059459980727 
+          - Airplane 46 arrive to the airport.
+~~> Minute: 809.1059459980727 
+          - Airplane 46 comes into landingtrack 4.
+~~> Minute: 811.8801605369865 
+          - Airplane 40 leave landingtrack 5.
+~~> Minute: 840.9691562310722 
+          - Airplane 47 arrive to the airport.
+~~> Minute: 840.9691562310722 
+          - Airplane 47 comes into landingtrack 5.
+~~> Minute: 844.3062886443274 
+          - Airplane 48 arrive to the airport.
+~~> Minute: 844.3062886443274 
+          - Airplane 48 waiting to come in.
+~~> Minute: 846.0727777631301 
+          - Airplane 44 leave landingtrack 2.
+~~> Minute: 846.0727777631301 
+          - Airplane 48 comes into landingtrack 2.
+~~> Minute: 851.256256739579 
+          - Airplane 49 arrive to the airport.
+~~> Minute: 851.256256739579 
+          - Airplane 49 waiting to come in.
+~~> Minute: 860.7028952583785 
+          - Airplane 43 leave landingtrack 1.
+~~> Minute: 860.7028952583785 
+          - Airplane 49 comes into landingtrack 1.
+~~> Minute: 870.828282631873 
+          - Airplane 45 leave landingtrack 3.
+~~> Minute: 872.5700561885598 
+          - Airplane 50 arrive to the airport.
+~~> Minute: 872.5700561885598 
+          - Airplane 50 comes into landingtrack 3.
+~~> Minute: 879.5777302124895 
+          - Airplane 48 leave landingtrack 2.
+~~> Minute: 880.2895629853433 
+          - Airplane 46 leave landingtrack 4.
+~~> Minute: 917.6335761808639 
+          - Airplane 51 arrive to the airport.
+~~> Minute: 917.6335761808639 
+          - Airplane 51 comes into landingtrack 4.
+~~> Minute: 930.4427520735737 
+          - Airplane 47 leave landingtrack 5.
+~~> Minute: 934.8759938431879 
+          - Airplane 49 leave landingtrack 1.
+~~> Minute: 948.7126037039824 
+          - Airplane 52 arrive to the airport.
+~~> Minute: 948.7126037039824 
+          - Airplane 52 comes into landingtrack 5.
+~~> Minute: 954.4191345290087 
+          - Airplane 53 arrive to the airport.
+~~> Minute: 954.4191345290087 
+          - Airplane 53 comes into landingtrack 1.
+~~> Minute: 959.7881896681449 
+          - Airplane 51 leave landingtrack 4.
+~~> Minute: 962.8438047001805 
+          - Airplane 54 arrive to the airport.
+~~> Minute: 962.8438047001805 
+          - Airplane 54 comes into landingtrack 4.
+~~> Minute: 977.782558096809 
+          - Airplane 50 leave landingtrack 3.
+~~> Minute: 988.9074497874094 
+          - Airplane 55 arrive to the airport.
+~~> Minute: 988.9074497874094 
+          - Airplane 55 comes into landingtrack 3.
+~~> Minute: 989.8345661028229 
+          - Airplane 52 leave landingtrack 5.
+~~> Minute: 995.3443528120753 
+          - Airplane 56 arrive to the airport.
+~~> Minute: 995.3443528120753 
+          - Airplane 56 comes into landingtrack 5.
+~~> Minute: 1014.4779258034587 
+          - Airplane 57 arrive to the airport.
+~~> Minute: 1014.4779258034587 
+          - Airplane 57 comes into landingtrack 2.
+~~> Minute: 1016.139048045121 
+          - Airplane 54 leave landingtrack 4.
+~~> Minute: 1038.0572943078132 
+          - Airplane 58 arrive to the airport.
+~~> Minute: 1038.0572943078132 
+          - Airplane 58 comes into landingtrack 4.
+~~> Minute: 1054.0612262548289 
+          - Airplane 56 leave landingtrack 5.
+~~> Minute: 1063.547090713014 
+          - Airplane 59 arrive to the airport.
+~~> Minute: 1063.547090713014 
+          - Airplane 59 comes into landingtrack 5.
+~~> Minute: 1070.9171337973687 
+          - Airplane 55 leave landingtrack 3.
+~~> Minute: 1078.4440484949885 
+          - Airplane 60 arrive to the airport.
+~~> Minute: 1078.4440484949885 
+          - Airplane 60 comes into landingtrack 3.
+~~> Minute: 1078.7649248844775 
+          - Airplane 53 leave landingtrack 1.
+~~> Minute: 1082.468203307363 
+          - Airplane 61 arrive to the airport.
+~~> Minute: 1082.468203307363 
+          - Airplane 61 comes into landingtrack 1.
+~~> Minute: 1093.7825726043427 
+          - Airplane 62 arrive to the airport.
+~~> Minute: 1093.7825726043427 
+          - Airplane 62 waiting to come in.
+~~> Minute: 1111.752380518052 
+          - Airplane 57 leave landingtrack 2.
+~~> Minute: 1111.752380518052 
+          - Airplane 62 comes into landingtrack 2.
+~~> Minute: 1124.834013775077 
+          - Airplane 58 leave landingtrack 4.
+~~> Minute: 1129.1695220730667 
+          - Airplane 59 leave landingtrack 5.
+~~> Minute: 1137.5806348108297 
+          - Airplane 61 leave landingtrack 1.
+~~> Minute: 1142.5728074699962 
+          - Airplane 60 leave landingtrack 3.
+~~> Minute: 1161.6125155540542 
+          - Airplane 62 leave landingtrack 2.
+~~> Minute: 1164.8750174242855 
+          - Airplane 63 arrive to the airport.
+~~> Minute: 1164.8750174242855 
+          - Airplane 63 comes into landingtrack 2.
+~~> Minute: 1170.27712692074 
+          - Airplane 64 arrive to the airport.
+~~> Minute: 1170.27712692074 
+          - Airplane 64 comes into landingtrack 1.
+~~> Minute: 1184.0395952904346 
+          - Airplane 65 arrive to the airport.
+~~> Minute: 1184.0395952904346 
+          - Airplane 65 comes into landingtrack 3.
+~~> Minute: 1190.9664171227282 
+          - Airplane 66 arrive to the airport.
+~~> Minute: 1190.9664171227282 
+          - Airplane 66 comes into landingtrack 4.
+~~> Minute: 1193.754133122201 
+          - Airplane 67 arrive to the airport.
+~~> Minute: 1193.754133122201 
+          - Airplane 67 comes into landingtrack 5.
+~~> Minute: 1204.052955492919 
+          - Airplane 68 arrive to the airport.
+~~> Minute: 1204.052955492919 
+          - Airplane 68 waiting to come in.
+~~> Minute: 1214.9402799275072 
+          - Airplane 63 leave landingtrack 2.
+~~> Minute: 1214.9402799275072 
+          - Airplane 68 comes into landingtrack 2.
+~~> Minute: 1236.886627663284 
+          - Airplane 64 leave landingtrack 1.
+~~> Minute: 1256.3007179063295 
+          - Airplane 69 arrive to the airport.
+~~> Minute: 1256.3007179063295 
+          - Airplane 69 comes into landingtrack 1.
+~~> Minute: 1256.9583499005569 
+          - Airplane 65 leave landingtrack 3.
+~~> Minute: 1258.0836422107845 
+          - Airplane 70 arrive to the airport.
+~~> Minute: 1258.0836422107845 
+          - Airplane 70 comes into landingtrack 3.
+~~> Minute: 1272.712415694304 
+          - Airplane 71 arrive to the airport.
+~~> Minute: 1272.712415694304 
+          - Airplane 71 waiting to come in.
+~~> Minute: 1274.7803021845139 
+          - Airplane 67 leave landingtrack 5.
+~~> Minute: 1274.7803021845139 
+          - Airplane 71 comes into landingtrack 5.
+~~> Minute: 1286.317239720477 
+          - Airplane 68 leave landingtrack 2.
+~~> Minute: 1291.6471156018736 
+          - Airplane 72 arrive to the airport.
+~~> Minute: 1291.6471156018736 
+          - Airplane 72 comes into landingtrack 2.
+~~> Minute: 1315.8201273702896 
+          - Airplane 69 leave landingtrack 1.
+~~> Minute: 1329.1795355362817 
+          - Airplane 72 leave landingtrack 2.
+~~> Minute: 1348.1414830998083 
+          - Airplane 66 leave landingtrack 4.
+~~> Minute: 1357.5595332465407 
+          - Airplane 70 leave landingtrack 3.
+~~> Minute: 1374.2212603224402 
+          - Airplane 71 leave landingtrack 5.
+~~> Minute: 1379.9480093009224 
+          - Airplane 73 arrive to the airport.
+~~> Minute: 1379.9480093009224 
+          - Airplane 73 comes into landingtrack 5.
+~~> Minute: 1391.261614402325 
+          - Airplane 74 arrive to the airport.
+~~> Minute: 1391.261614402325 
+          - Airplane 74 comes into landingtrack 2.
+~~> Minute: 1399.961838075232 
+          - Airplane 75 arrive to the airport.
+~~> Minute: 1399.961838075232 
+          - Airplane 75 comes into landingtrack 4.
+~~> Minute: 1420.136787920908 
+          - Airplane 76 arrive to the airport.
+~~> Minute: 1420.136787920908 
+          - Airplane 76 comes into landingtrack 3.
+~~> Minute: 1424.4245050041282 
+          - Airplane 77 arrive to the airport.
+~~> Minute: 1424.4245050041282 
+          - Airplane 77 comes into landingtrack 1.
+~~> Minute: 1435.36352341799 
+          - Airplane 74 leave landingtrack 2.
+~~> Minute: 1438.0086603596592 
+          - Airplane 73 leave landingtrack 5.
+~~> Minute: 1454.8187642477696 
+          - Airplane 78 arrive to the airport.
+~~> Minute: 1454.8187642477696 
+          - Airplane 78 comes into landingtrack 5.
+~~> Minute: 1459.3081997554095 
+          - Airplane 79 arrive to the airport.
+~~> Minute: 1459.3081997554095 
+          - Airplane 79 comes into landingtrack 2.
+~~> Minute: 1469.0845187037896 
+          - Airplane 76 leave landingtrack 3.
+~~> Minute: 1470.4285765336786 
+          - Airplane 75 leave landingtrack 4.
+~~> Minute: 1472.9787797870465 
+          - Airplane 80 arrive to the airport.
+~~> Minute: 1472.9787797870465 
+          - Airplane 80 comes into landingtrack 3.
+~~> Minute: 1490.6934378669841 
+          - Airplane 81 arrive to the airport.
+~~> Minute: 1490.6934378669841 
+          - Airplane 81 comes into landingtrack 4.
+~~> Minute: 1491.2133428734699 
+          - Airplane 77 leave landingtrack 1.
+~~> Minute: 1501.248124010372 
+          - Airplane 78 leave landingtrack 5.
+~~> Minute: 1535.2799726528365 
+          - Airplane 80 leave landingtrack 3.
+~~> Minute: 1535.4505125257194 
+          - Airplane 82 arrive to the airport.
+~~> Minute: 1535.4505125257194 
+          - Airplane 82 comes into landingtrack 3.
+~~> Minute: 1542.683417721331 
+          - Airplane 79 leave landingtrack 2.
+~~> Minute: 1558.1394952446465 
+          - Airplane 81 leave landingtrack 4.
+~~> Minute: 1579.8890850525886 
+          - Airplane 83 arrive to the airport.
+~~> Minute: 1579.8890850525886 
+          - Airplane 83 comes into landingtrack 1.
+~~> Minute: 1609.8056302048096 
+          - Airplane 84 arrive to the airport.
+~~> Minute: 1609.8056302048096 
+          - Airplane 84 comes into landingtrack 5.
+~~> Minute: 1618.5273450423208 
+          - Airplane 82 leave landingtrack 3.
+~~> Minute: 1625.2040109050129 
+          - Airplane 83 leave landingtrack 1.
+~~> Minute: 1627.8190602724526 
+          - Airplane 85 arrive to the airport.
+~~> Minute: 1627.8190602724526 
+          - Airplane 85 comes into landingtrack 4.
+~~> Minute: 1674.971661627044 
+          - Airplane 86 arrive to the airport.
+~~> Minute: 1674.971661627044 
+          - Airplane 86 comes into landingtrack 2.
+~~> Minute: 1720.679795064092 
+          - Airplane 86 leave landingtrack 2.
+~~> Minute: 1739.698018624817 
+          - Airplane 84 leave landingtrack 5.
+~~> Minute: 1751.7180127304696 
+          - Airplane 85 leave landingtrack 4.
+~~> Minute: 1752.6025034757497 
+          - Airplane 87 arrive to the airport.
+~~> Minute: 1752.6025034757497 
+          - Airplane 87 comes into landingtrack 4.
+~~> Minute: 1815.3285422246786 
+          - Airplane 87 leave landingtrack 4.
+~~> Minute: 1832.5244404088849 
+          - Airplane 88 arrive to the airport.
+~~> Minute: 1832.5244404088849 
+          - Airplane 88 comes into landingtrack 2.
+~~> Minute: 1837.2652685571725 
+          - Airplane 89 arrive to the airport.
+~~> Minute: 1837.2652685571725 
+          - Airplane 89 comes into landingtrack 5.
+~~> Minute: 1875.6401306248663 
+          - Airplane 90 arrive to the airport.
+~~> Minute: 1875.6401306248663 
+          - Airplane 90 comes into landingtrack 4.
+~~> Minute: 1885.5737308096386 
+          - Airplane 88 leave landingtrack 2.
+~~> Minute: 1890.6435873477794 
+          - Airplane 91 arrive to the airport.
+~~> Minute: 1890.6435873477794 
+          - Airplane 91 comes into landingtrack 3.
+~~> Minute: 1908.015678794827 
+          - Airplane 89 leave landingtrack 5.
+~~> Minute: 1913.4827081400554 
+          - Airplane 92 arrive to the airport.
+~~> Minute: 1913.4827081400554 
+          - Airplane 92 comes into landingtrack 5.
+~~> Minute: 1915.7981547392071 
+          - Airplane 90 leave landingtrack 4.
+~~> Minute: 1923.6475574196058 
+          - Airplane 93 arrive to the airport.
+~~> Minute: 1923.6475574196058 
+          - Airplane 93 comes into landingtrack 4.
+~~> Minute: 1931.6837157306495 
+          - Airplane 91 leave landingtrack 3.
+~~> Minute: 1936.9804803264453 
+          - Airplane 94 arrive to the airport.
+~~> Minute: 1936.9804803264453 
+          - Airplane 94 comes into landingtrack 2.
+~~> Minute: 1941.9073974874348 
+          - Airplane 95 arrive to the airport.
+~~> Minute: 1941.9073974874348 
+          - Airplane 95 comes into landingtrack 1.
+~~> Minute: 1944.606305395872 
+          - Airplane 96 arrive to the airport.
+~~> Minute: 1944.606305395872 
+          - Airplane 96 comes into landingtrack 3.
+~~> Minute: 1945.7167974788622 
+          - Airplane 97 arrive to the airport.
+~~> Minute: 1945.7167974788622 
+          - Airplane 97 waiting to come in.
+~~> Minute: 1947.1660000196523 
+          - Airplane 98 arrive to the airport.
+~~> Minute: 1947.1660000196523 
+          - Airplane 98 waiting to come in.
+~~> Minute: 1959.8310244044987 
+          - Airplane 92 leave landingtrack 5.
+~~> Minute: 1959.8310244044987 
+          - Airplane 98 comes into landingtrack 5.
+~~> Minute: 1964.5371434268336 
+          - Airplane 99 arrive to the airport.
+~~> Minute: 1964.5371434268336 
+          - Airplane 99 waiting to come in.
+~~> Minute: 1975.021133986955 
+          - Airplane 100 arrive to the airport.
+~~> Minute: 1975.021133986955 
+          - Airplane 100 waiting to come in.
+~~> Minute: 1978.314268583512 
+          - Airplane 93 leave landingtrack 4.
+~~> Minute: 1978.314268583512 
+          - Airplane 100 comes into landingtrack 4.
+~~> Minute: 1993.287540777733 
+          - Airplane 94 leave landingtrack 2.
+~~> Minute: 1993.287540777733 
+          - Airplane 99 comes into landingtrack 2.
+~~> Minute: 2009.6529261773926 
+          - Airplane 101 arrive to the airport.
+~~> Minute: 2009.6529261773926 
+          - Airplane 101 waiting to come in.
+~~> Minute: 2010.5431127979869 
+          - Airplane 102 arrive to the airport.
+~~> Minute: 2010.5431127979869 
+          - Airplane 102 waiting to come in.
+~~> Minute: 2012.9920296620096 
+          - Airplane 98 leave landingtrack 5.
+~~> Minute: 2012.9920296620096 
+          - Airplane 102 comes into landingtrack 5.
+~~> Minute: 2013.682981209584 
+          - Airplane 100 leave landingtrack 4.
+~~> Minute: 2013.682981209584 
+          - Airplane 101 comes into landingtrack 4.
+~~> Minute: 2025.8155244582038 
+          - Airplane 95 leave landingtrack 1.
+~~> Minute: 2025.8155244582038 
+          - Airplane 97 comes into landingtrack 1.
+~~> Minute: 2061.505073636268 
+          - Airplane 103 arrive to the airport.
+~~> Minute: 2061.505073636268 
+          - Airplane 103 waiting to come in.
+~~> Minute: 2089.3341118027524 
+          - Airplane 102 leave landingtrack 5.
+~~> Minute: 2089.3341118027524 
+          - Airplane 103 comes into landingtrack 5.
+~~> Minute: 2094.0535684361907 
+          - Airplane 99 leave landingtrack 2.
+~~> Minute: 2104.7350535011374 
+          - Airplane 104 arrive to the airport.
+~~> Minute: 2104.7350535011374 
+          - Airplane 104 comes into landingtrack 2.
+~~> Minute: 2125.4360208166777 
+          - Airplane 101 leave landingtrack 4.
+~~> Minute: 2129.977618849155 
+          - Airplane 96 leave landingtrack 3.
+~~> Minute: 2130.3030901906127 
+          - Airplane 105 arrive to the airport.
+~~> Minute: 2130.3030901906127 
+          - Airplane 105 comes into landingtrack 3.
+~~> Minute: 2134.56881202455 
+          - Airplane 97 leave landingtrack 1.
+~~> Minute: 2161.4980813572365 
+          - Airplane 106 arrive to the airport.
+~~> Minute: 2161.4980813572365 
+          - Airplane 106 comes into landingtrack 1.
+~~> Minute: 2168.63057314405 
+          - Airplane 107 arrive to the airport.
+~~> Minute: 2168.63057314405 
+          - Airplane 107 comes into landingtrack 4.
+~~> Minute: 2168.8613957747507 
+          - Airplane 104 leave landingtrack 2.
+~~> Minute: 2171.0273337372346 
+          - Airplane 108 arrive to the airport.
+~~> Minute: 2171.0273337372346 
+          - Airplane 108 comes into landingtrack 2.
+~~> Minute: 2171.0436040308023 
+          - Airplane 103 leave landingtrack 5.
+~~> Minute: 2191.966952842063 
+          - Airplane 105 leave landingtrack 3.
+~~> Minute: 2196.5541856254717 
+          - Airplane 109 arrive to the airport.
+~~> Minute: 2196.5541856254717 
+          - Airplane 109 comes into landingtrack 5.
+~~> Minute: 2198.6883386506775 
+          - Airplane 110 arrive to the airport.
+~~> Minute: 2198.6883386506775 
+          - Airplane 110 comes into landingtrack 3.
+~~> Minute: 2201.9281596645287 
+          - Airplane 111 arrive to the airport.
+~~> Minute: 2201.9281596645287 
+          - Airplane 111 waiting to come in.
+~~> Minute: 2204.749162375421 
+          - Airplane 112 arrive to the airport.
+~~> Minute: 2204.749162375421 
+          - Airplane 112 waiting to come in.
+~~> Minute: 2205.5685250670003 
+          - Airplane 106 leave landingtrack 1.
+~~> Minute: 2205.5685250670003 
+          - Airplane 112 comes into landingtrack 1.
+~~> Minute: 2212.2126787327215 
+          - Airplane 107 leave landingtrack 4.
+~~> Minute: 2212.2126787327215 
+          - Airplane 111 comes into landingtrack 4.
+~~> Minute: 2227.347385140619 
+          - Airplane 113 arrive to the airport.
+~~> Minute: 2227.347385140619 
+          - Airplane 113 waiting to come in.
+~~> Minute: 2227.9671863563744 
+          - Airplane 114 arrive to the airport.
+~~> Minute: 2227.9671863563744 
+          - Airplane 114 waiting to come in.
+~~> Minute: 2237.987052772409 
+          - Airplane 109 leave landingtrack 5.
+~~> Minute: 2237.987052772409 
+          - Airplane 114 comes into landingtrack 5.
+~~> Minute: 2241.4652128767534 
+          - Airplane 115 arrive to the airport.
+~~> Minute: 2241.4652128767534 
+          - Airplane 115 waiting to come in.
+~~> Minute: 2249.682560539948 
+          - Airplane 116 arrive to the airport.
+~~> Minute: 2249.682560539948 
+          - Airplane 116 waiting to come in.
+~~> Minute: 2259.0839483713826 
+          - Airplane 108 leave landingtrack 2.
+~~> Minute: 2259.0839483713826 
+          - Airplane 116 comes into landingtrack 2.
+~~> Minute: 2261.3630914451182 
+          - Airplane 117 arrive to the airport.
+~~> Minute: 2261.3630914451182 
+          - Airplane 117 waiting to come in.
+~~> Minute: 2263.641258545588 
+          - Airplane 118 arrive to the airport.
+~~> Minute: 2263.641258545588 
+          - Airplane 118 waiting to come in.
+~~> Minute: 2264.997086493048 
+          - Airplane 112 leave landingtrack 1.
+~~> Minute: 2264.997086493048 
+          - Airplane 118 comes into landingtrack 1.
+~~> Minute: 2273.538680245135 
+          - Airplane 111 leave landingtrack 4.
+~~> Minute: 2273.538680245135 
+          - Airplane 117 comes into landingtrack 4.
+~~> Minute: 2285.836481605067 
+          - Airplane 110 leave landingtrack 3.
+~~> Minute: 2285.836481605067 
+          - Airplane 115 comes into landingtrack 3.
+~~> Minute: 2286.754641403748 
+          - Airplane 119 arrive to the airport.
+~~> Minute: 2286.754641403748 
+          - Airplane 119 waiting to come in.
+~~> Minute: 2293.6917638257432 
+          - Airplane 120 arrive to the airport.
+~~> Minute: 2293.6917638257432 
+          - Airplane 120 waiting to come in.
+~~> Minute: 2310.200447481992 
+          - Airplane 121 arrive to the airport.
+~~> Minute: 2310.200447481992 
+          - Airplane 121 waiting to come in.
+~~> Minute: 2342.0690804335572 
+          - Airplane 118 leave landingtrack 1.
+~~> Minute: 2342.0690804335572 
+          - Airplane 121 comes into landingtrack 1.
+~~> Minute: 2342.6587396468904 
+          - Airplane 122 arrive to the airport.
+~~> Minute: 2342.6587396468904 
+          - Airplane 122 waiting to come in.
+~~> Minute: 2353.987343901991 
+          - Airplane 114 leave landingtrack 5.
+~~> Minute: 2353.987343901991 
+          - Airplane 122 comes into landingtrack 5.
+~~> Minute: 2365.001181063153 
+          - Airplane 123 arrive to the airport.
+~~> Minute: 2365.001181063153 
+          - Airplane 123 waiting to come in.
+~~> Minute: 2365.8241506611485 
+          - Airplane 124 arrive to the airport.
+~~> Minute: 2365.8241506611485 
+          - Airplane 124 waiting to come in.
+~~> Minute: 2368.270073922069 
+          - Airplane 116 leave landingtrack 2.
+~~> Minute: 2368.270073922069 
+          - Airplane 124 comes into landingtrack 2.
+~~> Minute: 2381.0846446665023 
+          - Airplane 115 leave landingtrack 3.
+~~> Minute: 2381.0846446665023 
+          - Airplane 123 comes into landingtrack 3.
+~~> Minute: 2387.6676004770884 
+          - Airplane 117 leave landingtrack 4.
+~~> Minute: 2387.6676004770884 
+          - Airplane 120 comes into landingtrack 4.
+~~> Minute: 2395.436849439968 
+          - Airplane 125 arrive to the airport.
+~~> Minute: 2395.436849439968 
+          - Airplane 125 waiting to come in.
+~~> Minute: 2397.0499742911675 
+          - Airplane 126 arrive to the airport.
+~~> Minute: 2397.0499742911675 
+          - Airplane 126 waiting to come in.
+~~> Minute: 2407.0776238052595 
+          - Airplane 127 arrive to the airport.
+~~> Minute: 2407.0776238052595 
+          - Airplane 127 waiting to come in.
+~~> Minute: 2421.880542425864 
+          - Airplane 121 leave landingtrack 1.
+~~> Minute: 2421.880542425864 
+          - Airplane 127 comes into landingtrack 1.
+~~> Minute: 2423.9726219472536 
+          - Airplane 128 arrive to the airport.
+~~> Minute: 2423.9726219472536 
+          - Airplane 128 waiting to come in.
+~~> Minute: 2442.921176576634 
+          - Airplane 123 leave landingtrack 3.
+~~> Minute: 2442.921176576634 
+          - Airplane 128 comes into landingtrack 3.
+~~> Minute: 2445.703303401182 
+          - Airplane 124 leave landingtrack 2.
+~~> Minute: 2445.703303401182 
+          - Airplane 126 comes into landingtrack 2.
+~~> Minute: 2448.9185001098917 
+          - Airplane 120 leave landingtrack 4.
+~~> Minute: 2448.9185001098917 
+          - Airplane 125 comes into landingtrack 4.
+~~> Minute: 2449.4081059092887 
+          - Airplane 122 leave landingtrack 5.
+~~> Minute: 2449.4081059092887 
+          - Airplane 119 comes into landingtrack 5.
+~~> Minute: 2467.29402860843 
+          - Airplane 129 arrive to the airport.
+~~> Minute: 2467.29402860843 
+          - Airplane 129 waiting to come in.
+~~> Minute: 2475.6725795374696 
+          - Airplane 127 leave landingtrack 1.
+~~> Minute: 2475.6725795374696 
+          - Airplane 129 comes into landingtrack 1.
+~~> Minute: 2483.548537792832 
+          - Airplane 126 leave landingtrack 2.
+~~> Minute: 2483.548537792832 
+          - Airplane 113 comes into landingtrack 2.
+~~> Minute: 2508.8529006099025 
+          - Airplane 130 arrive to the airport.
+~~> Minute: 2508.8529006099025 
+          - Airplane 130 waiting to come in.
+~~> Minute: 2521.325508866964 
+          - Airplane 129 leave landingtrack 1.
+~~> Minute: 2521.325508866964 
+          - Airplane 130 comes into landingtrack 1.
+~~> Minute: 2522.9589748204753 
+          - Airplane 113 leave landingtrack 2.
+~~> Minute: 2543.6732748464674 
+          - Airplane 131 arrive to the airport.
+~~> Minute: 2543.6732748464674 
+          - Airplane 131 comes into landingtrack 2.
+~~> Minute: 2549.9697910807245 
+          - Airplane 119 leave landingtrack 5.
+~~> Minute: 2562.363362268986 
+          - Airplane 125 leave landingtrack 4.
+~~> Minute: 2569.276873057005 
+          - Airplane 128 leave landingtrack 3.
+~~> Minute: 2590.937636754774 
+          - Airplane 132 arrive to the airport.
+~~> Minute: 2590.937636754774 
+          - Airplane 132 comes into landingtrack 5.
+~~> Minute: 2595.559460425553 
+          - Airplane 130 leave landingtrack 1.
+~~> Minute: 2604.296219912018 
+          - Airplane 133 arrive to the airport.
+~~> Minute: 2604.296219912018 
+          - Airplane 133 comes into landingtrack 4.
+~~> Minute: 2618.7813683542677 
+          - Airplane 134 arrive to the airport.
+~~> Minute: 2618.7813683542677 
+          - Airplane 134 comes into landingtrack 1.
+~~> Minute: 2639.0462776763925 
+          - Airplane 131 leave landingtrack 2.
+~~> Minute: 2645.437572339776 
+          - Airplane 135 arrive to the airport.
+~~> Minute: 2645.437572339776 
+          - Airplane 135 comes into landingtrack 3.
+~~> Minute: 2654.1064286880514 
+          - Airplane 133 leave landingtrack 4.
+~~> Minute: 2689.364536503567 
+          - Airplane 136 arrive to the airport.
+~~> Minute: 2689.364536503567 
+          - Airplane 136 comes into landingtrack 2.
+~~> Minute: 2707.5053266142363 
+          - Airplane 137 arrive to the airport.
+~~> Minute: 2707.5053266142363 
+          - Airplane 137 comes into landingtrack 4.
+~~> Minute: 2713.359534620803 
+          - Airplane 134 leave landingtrack 1.
+~~> Minute: 2724.1664956406157 
+          - Airplane 138 arrive to the airport.
+~~> Minute: 2724.1664956406157 
+          - Airplane 138 comes into landingtrack 1.
+~~> Minute: 2726.5859485788314 
+          - Airplane 139 arrive to the airport.
+~~> Minute: 2726.5859485788314 
+          - Airplane 139 waiting to come in.
+~~> Minute: 2726.758487900208 
+          - Airplane 136 leave landingtrack 2.
+~~> Minute: 2726.758487900208 
+          - Airplane 139 comes into landingtrack 2.
+~~> Minute: 2744.29980765685 
+          - Airplane 135 leave landingtrack 3.
+~~> Minute: 2744.3631503291713 
+          - Airplane 140 arrive to the airport.
+~~> Minute: 2744.3631503291713 
+          - Airplane 140 comes into landingtrack 3.
+~~> Minute: 2762.9483987500435 
+          - Airplane 132 leave landingtrack 5.
+~~> Minute: 2765.744931748312 
+          - Airplane 141 arrive to the airport.
+~~> Minute: 2765.744931748312 
+          - Airplane 141 comes into landingtrack 5.
+~~> Minute: 2766.930419954234 
+          - Airplane 142 arrive to the airport.
+~~> Minute: 2766.930419954234 
+          - Airplane 142 waiting to come in.
+~~> Minute: 2770.731663272678 
+          - Airplane 143 arrive to the airport.
+~~> Minute: 2770.731663272678 
+          - Airplane 143 waiting to come in.
+~~> Minute: 2781.09515485332 
+          - Airplane 144 arrive to the airport.
+~~> Minute: 2781.09515485332 
+          - Airplane 144 waiting to come in.
+~~> Minute: 2786.3771448411735 
+          - Airplane 145 arrive to the airport.
+~~> Minute: 2786.3771448411735 
+          - Airplane 145 waiting to come in.
+~~> Minute: 2796.8478906718956 
+          - Airplane 139 leave landingtrack 2.
+~~> Minute: 2796.8478906718956 
+          - Airplane 145 comes into landingtrack 2.
+~~> Minute: 2810.0411500044215 
+          - Airplane 137 leave landingtrack 4.
+~~> Minute: 2810.0411500044215 
+          - Airplane 144 comes into landingtrack 4.
+~~> Minute: 2827.2239747637645 
+          - Airplane 141 leave landingtrack 5.
+~~> Minute: 2827.2239747637645 
+          - Airplane 143 comes into landingtrack 5.
+~~> Minute: 2828.7647672910193 
+          - Airplane 140 leave landingtrack 3.
+~~> Minute: 2828.7647672910193 
+          - Airplane 142 comes into landingtrack 3.
+~~> Minute: 2835.573929758312 
+          - Airplane 138 leave landingtrack 1.
+~~> Minute: 2850.249870604978 
+          - Airplane 144 leave landingtrack 4.
+~~> Minute: 2864.2882604608 
+          - Airplane 146 arrive to the airport.
+~~> Minute: 2864.2882604608 
+          - Airplane 146 comes into landingtrack 4.
+~~> Minute: 2878.7019017906227 
+          - Airplane 142 leave landingtrack 3.
+~~> Minute: 2886.832900281613 
+          - Airplane 147 arrive to the airport.
+~~> Minute: 2886.832900281613 
+          - Airplane 147 comes into landingtrack 1.
+~~> Minute: 2899.4545463205122 
+          - Airplane 148 arrive to the airport.
+~~> Minute: 2899.4545463205122 
+          - Airplane 148 comes into landingtrack 3.
+~~> Minute: 2930.1464113901625 
+          - Airplane 148 leave landingtrack 3.
+~~> Minute: 2936.446285110491 
+          - Airplane 143 leave landingtrack 5.
+~~> Minute: 2942.1292855474658 
+          - Airplane 149 arrive to the airport.
+~~> Minute: 2942.1292855474658 
+          - Airplane 149 comes into landingtrack 5.
+~~> Minute: 2945.773490502817 
+          - Airplane 145 leave landingtrack 2.
+~~> Minute: 2947.653959642808 
+          - Airplane 150 arrive to the airport.
+~~> Minute: 2947.653959642808 
+          - Airplane 150 comes into landingtrack 2.
+~~> Minute: 2950.5488008432 
+          - Airplane 151 arrive to the airport.
+~~> Minute: 2950.5488008432 
+          - Airplane 151 comes into landingtrack 3.
+~~> Minute: 2950.8135459740333 
+          - Airplane 146 leave landingtrack 4.
+~~> Minute: 2957.113571655495 
+          - Airplane 152 arrive to the airport.
+~~> Minute: 2957.113571655495 
+          - Airplane 152 comes into landingtrack 4.
+~~> Minute: 2962.394397388025 
+          - Airplane 147 leave landingtrack 1.
+~~> Minute: 2988.899948694136 
+          - Airplane 153 arrive to the airport.
+~~> Minute: 2988.899948694136 
+          - Airplane 153 comes into landingtrack 1.
+~~> Minute: 2994.414083575709 
+          - Airplane 149 leave landingtrack 5.
+~~> Minute: 3015.5178648761635 
+          - Airplane 152 leave landingtrack 4.
+~~> Minute: 3028.2003699966076 
+          - Airplane 150 leave landingtrack 2.
+~~> Minute: 3035.731354254345 
+          - Airplane 151 leave landingtrack 3.
+~~> Minute: 3051.875036053513 
+          - Airplane 154 arrive to the airport.
+~~> Minute: 3051.875036053513 
+          - Airplane 154 comes into landingtrack 5.
+~~> Minute: 3057.0235587434818 
+          - Airplane 155 arrive to the airport.
+~~> Minute: 3057.0235587434818 
+          - Airplane 155 comes into landingtrack 2.
+~~> Minute: 3078.5521937432536 
+          - Airplane 154 leave landingtrack 5.
+~~> Minute: 3114.729600124981 
+          - Airplane 156 arrive to the airport.
+~~> Minute: 3114.729600124981 
+          - Airplane 156 comes into landingtrack 3.
+~~> Minute: 3118.872986271368 
+          - Airplane 153 leave landingtrack 1.
+~~> Minute: 3167.5702070727298 
+          - Airplane 156 leave landingtrack 3.
+~~> Minute: 3180.269507084511 
+          - Airplane 157 arrive to the airport.
+~~> Minute: 3180.269507084511 
+          - Airplane 157 comes into landingtrack 4.
+~~> Minute: 3197.766397598596 
+          - Airplane 158 arrive to the airport.
+~~> Minute: 3197.766397598596 
+          - Airplane 158 comes into landingtrack 3.
+~~> Minute: 3206.5220997626075 
+          - Airplane 155 leave landingtrack 2.
+~~> Minute: 3222.8524921651638 
+          - Airplane 159 arrive to the airport.
+~~> Minute: 3222.8524921651638 
+          - Airplane 159 comes into landingtrack 5.
+~~> Minute: 3226.345730675956 
+          - Airplane 160 arrive to the airport.
+~~> Minute: 3226.345730675956 
+          - Airplane 160 comes into landingtrack 2.
+~~> Minute: 3261.9752692874536 
+          - Airplane 160 leave landingtrack 2.
+~~> Minute: 3270.5864022864957 
+          - Airplane 161 arrive to the airport.
+~~> Minute: 3270.5864022864957 
+          - Airplane 161 comes into landingtrack 2.
+~~> Minute: 3274.825897884637 
+          - Airplane 162 arrive to the airport.
+~~> Minute: 3274.825897884637 
+          - Airplane 162 comes into landingtrack 1.
+~~> Minute: 3293.033676337414 
+          - Airplane 163 arrive to the airport.
+~~> Minute: 3293.033676337414 
+          - Airplane 163 waiting to come in.
+~~> Minute: 3300.5883976697173 
+          - Airplane 158 leave landingtrack 3.
+~~> Minute: 3300.5883976697173 
+          - Airplane 163 comes into landingtrack 3.
+~~> Minute: 3302.936868201828 
+          - Airplane 164 arrive to the airport.
+~~> Minute: 3302.936868201828 
+          - Airplane 164 waiting to come in.
+~~> Minute: 3307.6344082174032 
+          - Airplane 162 leave landingtrack 1.
+~~> Minute: 3307.6344082174032 
+          - Airplane 164 comes into landingtrack 1.
+~~> Minute: 3313.8979572438247 
+          - Airplane 165 arrive to the airport.
+~~> Minute: 3313.8979572438247 
+          - Airplane 165 waiting to come in.
+~~> Minute: 3322.469500622594 
+          - Airplane 166 arrive to the airport.
+~~> Minute: 3322.469500622594 
+          - Airplane 166 waiting to come in.
+~~> Minute: 3331.9976229478584 
+          - Airplane 167 arrive to the airport.
+~~> Minute: 3331.9976229478584 
+          - Airplane 167 waiting to come in.
+~~> Minute: 3341.186649443392 
+          - Airplane 159 leave landingtrack 5.
+~~> Minute: 3341.186649443392 
+          - Airplane 167 comes into landingtrack 5.
+~~> Minute: 3360.1819234841996 
+          - Airplane 163 leave landingtrack 3.
+~~> Minute: 3360.1819234841996 
+          - Airplane 166 comes into landingtrack 3.
+~~> Minute: 3370.9088751197432 
+          - Airplane 164 leave landingtrack 1.
+~~> Minute: 3370.9088751197432 
+          - Airplane 165 comes into landingtrack 1.
+~~> Minute: 3384.492706822835 
+          - Airplane 168 arrive to the airport.
+~~> Minute: 3384.492706822835 
+          - Airplane 168 waiting to come in.
+~~> Minute: 3389.622505797689 
+          - Airplane 161 leave landingtrack 2.
+~~> Minute: 3389.622505797689 
+          - Airplane 168 comes into landingtrack 2.
+~~> Minute: 3395.5001361305262 
+          - Airplane 169 arrive to the airport.
+~~> Minute: 3395.5001361305262 
+          - Airplane 169 waiting to come in.
+~~> Minute: 3400.849322242235 
+          - Airplane 170 arrive to the airport.
+~~> Minute: 3400.849322242235 
+          - Airplane 170 waiting to come in.
+~~> Minute: 3402.060904138858 
+          - Airplane 171 arrive to the airport.
+~~> Minute: 3402.060904138858 
+          - Airplane 171 waiting to come in.
+~~> Minute: 3405.540268860348 
+          - Airplane 167 leave landingtrack 5.
+~~> Minute: 3405.540268860348 
+          - Airplane 171 comes into landingtrack 5.
+~~> Minute: 3415.7103489318806 
+          - Airplane 172 arrive to the airport.
+~~> Minute: 3415.7103489318806 
+          - Airplane 172 waiting to come in.
+~~> Minute: 3436.727536148606 
+          - Airplane 168 leave landingtrack 2.
+~~> Minute: 3436.727536148606 
+          - Airplane 172 comes into landingtrack 2.
+~~> Minute: 3440.7025758258474 
+          - Airplane 173 arrive to the airport.
+~~> Minute: 3440.7025758258474 
+          - Airplane 173 waiting to come in.
+~~> Minute: 3445.523190692472 
+          - Airplane 157 leave landingtrack 4.
+~~> Minute: 3445.523190692472 
+          - Airplane 173 comes into landingtrack 4.
+~~> Minute: 3452.8416235786563 
+          - Airplane 165 leave landingtrack 1.
+~~> Minute: 3452.8416235786563 
+          - Airplane 170 comes into landingtrack 1.
+~~> Minute: 3462.6481289505437 
+          - Airplane 171 leave landingtrack 5.
+~~> Minute: 3462.6481289505437 
+          - Airplane 169 comes into landingtrack 5.
+~~> Minute: 3476.318487152393 
+          - Airplane 174 arrive to the airport.
+~~> Minute: 3476.318487152393 
+          - Airplane 174 waiting to come in.
+~~> Minute: 3477.20855764074 
+          - Airplane 172 leave landingtrack 2.
+~~> Minute: 3477.20855764074 
+          - Airplane 174 comes into landingtrack 2.
+~~> Minute: 3478.572738181175 
+          - Airplane 175 arrive to the airport.
+~~> Minute: 3478.572738181175 
+          - Airplane 175 waiting to come in.
+~~> Minute: 3494.114101183657 
+          - Airplane 170 leave landingtrack 1.
+~~> Minute: 3494.114101183657 
+          - Airplane 175 comes into landingtrack 1.
+~~> Minute: 3520.0026558316217 
+          - Airplane 169 leave landingtrack 5.
+~~> Minute: 3526.827835946673 
+          - Airplane 176 arrive to the airport.
+~~> Minute: 3526.827835946673 
+          - Airplane 176 comes into landingtrack 5.
+~~> Minute: 3527.572724118295 
+          - Airplane 166 leave landingtrack 3.
+~~> Minute: 3531.2922909912418 
+          - Airplane 174 leave landingtrack 2.
+~~> Minute: 3536.2654281439786 
+          - Airplane 175 leave landingtrack 1.
+~~> Minute: 3547.387567093475 
+          - Airplane 177 arrive to the airport.
+~~> Minute: 3547.387567093475 
+          - Airplane 177 comes into landingtrack 1.
+~~> Minute: 3560.598841196686 
+          - Airplane 178 arrive to the airport.
+~~> Minute: 3560.598841196686 
+          - Airplane 178 comes into landingtrack 3.
+~~> Minute: 3567.209760085639 
+          - Airplane 173 leave landingtrack 4.
+~~> Minute: 3581.1111644870384 
+          - Airplane 177 leave landingtrack 1.
+~~> Minute: 3582.1723214566814 
+          - Airplane 179 arrive to the airport.
+~~> Minute: 3582.1723214566814 
+          - Airplane 179 comes into landingtrack 4.
+~~> Minute: 3586.440195416733 
+          - Airplane 176 leave landingtrack 5.
+~~> Minute: 3587.928976795681 
+          - Airplane 180 arrive to the airport.
+~~> Minute: 3587.928976795681 
+          - Airplane 180 comes into landingtrack 1.
+~~> Minute: 3590.7811077148644 
+          - Airplane 181 arrive to the airport.
+~~> Minute: 3590.7811077148644 
+          - Airplane 181 comes into landingtrack 2.
+~~> Minute: 3600.296994783319 
+          - Airplane 178 leave landingtrack 3.
+~~> Minute: 3605.4121183253123 
+          - Airplane 182 arrive to the airport.
+~~> Minute: 3605.4121183253123 
+          - Airplane 182 comes into landingtrack 3.
+~~> Minute: 3633.6440033224017 
+          - Airplane 179 leave landingtrack 4.
+~~> Minute: 3642.7129435490756 
+          - Airplane 181 leave landingtrack 2.
+~~> Minute: 3646.7716124768717 
+          - Airplane 183 arrive to the airport.
+~~> Minute: 3646.7716124768717 
+          - Airplane 183 comes into landingtrack 5.
+~~> Minute: 3657.988060170134 
+          - Airplane 184 arrive to the airport.
+~~> Minute: 3657.988060170134 
+          - Airplane 184 comes into landingtrack 4.
+~~> Minute: 3675.550192549 
+          - Airplane 180 leave landingtrack 1.
+~~> Minute: 3688.0754361300037 
+          - Airplane 183 leave landingtrack 5.
+~~> Minute: 3696.094431477568 
+          - Airplane 182 leave landingtrack 3.
+~~> Minute: 3710.232145460099 
+          - Airplane 184 leave landingtrack 4.
+~~> Minute: 3760.8581598280593 
+          - Airplane 185 arrive to the airport.
+~~> Minute: 3760.8581598280593 
+          - Airplane 185 comes into landingtrack 3.
+~~> Minute: 3768.8506671249233 
+          - Airplane 186 arrive to the airport.
+~~> Minute: 3768.8506671249233 
+          - Airplane 186 comes into landingtrack 1.
+~~> Minute: 3774.9603993115265 
+          - Airplane 187 arrive to the airport.
+~~> Minute: 3774.9603993115265 
+          - Airplane 187 comes into landingtrack 5.
+~~> Minute: 3775.820401956193 
+          - Airplane 188 arrive to the airport.
+~~> Minute: 3775.820401956193 
+          - Airplane 188 comes into landingtrack 2.
+~~> Minute: 3780.247963653758 
+          - Airplane 189 arrive to the airport.
+~~> Minute: 3780.247963653758 
+          - Airplane 189 comes into landingtrack 4.
+~~> Minute: 3819.0975261593912 
+          - Airplane 187 leave landingtrack 5.
+~~> Minute: 3820.682796001348 
+          - Airplane 186 leave landingtrack 1.
+~~> Minute: 3823.728600698915 
+          - Airplane 189 leave landingtrack 4.
+~~> Minute: 3825.8078399203155 
+          - Airplane 188 leave landingtrack 2.
+~~> Minute: 3859.185318403137 
+          - Airplane 190 arrive to the airport.
+~~> Minute: 3859.185318403137 
+          - Airplane 190 comes into landingtrack 5.
+~~> Minute: 3879.2347165515607 
+          - Airplane 191 arrive to the airport.
+~~> Minute: 3879.2347165515607 
+          - Airplane 191 comes into landingtrack 2.
+~~> Minute: 3880.6293741269847 
+          - Airplane 192 arrive to the airport.
+~~> Minute: 3880.6293741269847 
+          - Airplane 192 comes into landingtrack 4.
+~~> Minute: 3889.4273014414393 
+          - Airplane 193 arrive to the airport.
+~~> Minute: 3889.4273014414393 
+          - Airplane 193 comes into landingtrack 1.
+~~> Minute: 3912.945653396334 
+          - Airplane 194 arrive to the airport.
+~~> Minute: 3912.945653396334 
+          - Airplane 194 waiting to come in.
+~~> Minute: 3929.498523657584 
+          - Airplane 193 leave landingtrack 1.
+~~> Minute: 3929.498523657584 
+          - Airplane 194 comes into landingtrack 1.
+~~> Minute: 3935.297180177615 
+          - Airplane 192 leave landingtrack 4.
+~~> Minute: 3947.4339320023946 
+          - Airplane 195 arrive to the airport.
+~~> Minute: 3947.4339320023946 
+          - Airplane 195 comes into landingtrack 4.
+~~> Minute: 3952.339235896542 
+          - Airplane 190 leave landingtrack 5.
+~~> Minute: 3959.762792411969 
+          - Airplane 185 leave landingtrack 3.
+~~> Minute: 3960.507065452115 
+          - Airplane 191 leave landingtrack 2.
+~~> Minute: 3963.1738372704285 
+          - Airplane 196 arrive to the airport.
+~~> Minute: 3963.1738372704285 
+          - Airplane 196 comes into landingtrack 2.
+~~> Minute: 3978.588237559008 
+          - Airplane 197 arrive to the airport.
+~~> Minute: 3978.588237559008 
+          - Airplane 197 comes into landingtrack 3.
+~~> Minute: 3986.641567611792 
+          - Airplane 198 arrive to the airport.
+~~> Minute: 3986.641567611792 
+          - Airplane 198 comes into landingtrack 5.
+~~> Minute: 3993.315907581623 
+          - Airplane 194 leave landingtrack 1.
+~~> Minute: 3997.927610680388 
+          - Airplane 199 arrive to the airport.
+~~> Minute: 3997.927610680388 
+          - Airplane 199 comes into landingtrack 1.
+~~> Minute: 4006.8158957782953 
+          - Airplane 200 arrive to the airport.
+~~> Minute: 4006.8158957782953 
+          - Airplane 200 waiting to come in.
+~~> Minute: 4016.9763520599636 
+          - Airplane 197 leave landingtrack 3.
+~~> Minute: 4016.9763520599636 
+          - Airplane 200 comes into landingtrack 3.
+~~> Minute: 4025.21616076885 
+          - Airplane 201 arrive to the airport.
+~~> Minute: 4025.21616076885 
+          - Airplane 201 waiting to come in.
+~~> Minute: 4029.532176417711 
+          - Airplane 196 leave landingtrack 2.
+~~> Minute: 4029.532176417711 
+          - Airplane 201 comes into landingtrack 2.
+~~> Minute: 4031.152227520995 
+          - Airplane 202 arrive to the airport.
+~~> Minute: 4031.152227520995 
+          - Airplane 202 waiting to come in.
+~~> Minute: 4039.538992074183 
+          - Airplane 203 arrive to the airport.
+~~> Minute: 4039.538992074183 
+          - Airplane 203 waiting to come in.
+~~> Minute: 4042.834296314656 
+          - Airplane 195 leave landingtrack 4.
+~~> Minute: 4042.834296314656 
+          - Airplane 203 comes into landingtrack 4.
+~~> Minute: 4059.921115407366 
+          - Airplane 204 arrive to the airport.
+~~> Minute: 4059.921115407366 
+          - Airplane 204 waiting to come in.
+~~> Minute: 4060.1958039778788 
+          - Airplane 198 leave landingtrack 5.
+~~> Minute: 4060.1958039778788 
+          - Airplane 204 comes into landingtrack 5.
+~~> Minute: 4065.6086302878175 
+          - Airplane 199 leave landingtrack 1.
+~~> Minute: 4065.6086302878175 
+          - Airplane 202 comes into landingtrack 1.
+~~> Minute: 4067.11495354109 
+          - Airplane 201 leave landingtrack 2.
+~~> Minute: 4071.7437467075138 
+          - Airplane 205 arrive to the airport.
+~~> Minute: 4071.7437467075138 
+          - Airplane 205 comes into landingtrack 2.
+~~> Minute: 4073.25936049206 
+          - Airplane 206 arrive to the airport.
+~~> Minute: 4073.25936049206 
+          - Airplane 206 waiting to come in.
+~~> Minute: 4117.155066014497 
+          - Airplane 207 arrive to the airport.
+~~> Minute: 4117.155066014497 
+          - Airplane 207 waiting to come in.
+~~> Minute: 4127.586890057056 
+          - Airplane 204 leave landingtrack 5.
+~~> Minute: 4127.586890057056 
+          - Airplane 207 comes into landingtrack 5.
+~~> Minute: 4128.697082400081 
+          - Airplane 200 leave landingtrack 3.
+~~> Minute: 4128.697082400081 
+          - Airplane 206 comes into landingtrack 3.
+~~> Minute: 4141.350969895022 
+          - Airplane 208 arrive to the airport.
+~~> Minute: 4141.350969895022 
+          - Airplane 208 waiting to come in.
+~~> Minute: 4142.425635393929 
+          - Airplane 202 leave landingtrack 1.
+~~> Minute: 4142.425635393929 
+          - Airplane 208 comes into landingtrack 1.
+~~> Minute: 4151.505173501862 
+          - Airplane 209 arrive to the airport.
+~~> Minute: 4151.505173501862 
+          - Airplane 209 waiting to come in.
+~~> Minute: 4153.00732900605 
+          - Airplane 210 arrive to the airport.
+~~> Minute: 4153.00732900605 
+          - Airplane 210 waiting to come in.
+~~> Minute: 4157.659779538262 
+          - Airplane 205 leave landingtrack 2.
+~~> Minute: 4157.659779538262 
+          - Airplane 210 comes into landingtrack 2.
+~~> Minute: 4160.918441329692 
+          - Airplane 211 arrive to the airport.
+~~> Minute: 4160.918441329692 
+          - Airplane 211 waiting to come in.
+~~> Minute: 4163.615863684964 
+          - Airplane 212 arrive to the airport.
+~~> Minute: 4163.615863684964 
+          - Airplane 212 waiting to come in.
+~~> Minute: 4175.881555905293 
+          - Airplane 207 leave landingtrack 5.
+~~> Minute: 4175.881555905293 
+          - Airplane 212 comes into landingtrack 5.
+~~> Minute: 4180.35843771878 
+          - Airplane 206 leave landingtrack 3.
+~~> Minute: 4180.35843771878 
+          - Airplane 211 comes into landingtrack 3.
+~~> Minute: 4187.816539636398 
+          - Airplane 208 leave landingtrack 1.
+~~> Minute: 4187.816539636398 
+          - Airplane 209 comes into landingtrack 1.
+~~> Minute: 4201.425368966941 
+          - Airplane 213 arrive to the airport.
+~~> Minute: 4201.425368966941 
+          - Airplane 213 waiting to come in.
+~~> Minute: 4208.893044452358 
+          - Airplane 214 arrive to the airport.
+~~> Minute: 4208.893044452358 
+          - Airplane 214 waiting to come in.
+~~> Minute: 4215.050946410629 
+          - Airplane 203 leave landingtrack 4.
+~~> Minute: 4215.050946410629 
+          - Airplane 214 comes into landingtrack 4.
+~~> Minute: 4219.486762895517 
+          - Airplane 211 leave landingtrack 3.
+~~> Minute: 4219.486762895517 
+          - Airplane 213 comes into landingtrack 3.
+~~> Minute: 4219.68251321038 
+          - Airplane 215 arrive to the airport.
+~~> Minute: 4219.68251321038 
+          - Airplane 215 waiting to come in.
+~~> Minute: 4222.652643355138 
+          - Airplane 216 arrive to the airport.
+~~> Minute: 4222.652643355138 
+          - Airplane 216 waiting to come in.
+~~> Minute: 4223.648667317752 
+          - Airplane 217 arrive to the airport.
+~~> Minute: 4223.648667317752 
+          - Airplane 217 waiting to come in.
+~~> Minute: 4223.913554929932 
+          - Airplane 218 arrive to the airport.
+~~> Minute: 4223.913554929932 
+          - Airplane 218 waiting to come in.
+~~> Minute: 4234.333766045013 
+          - Airplane 212 leave landingtrack 5.
+~~> Minute: 4234.333766045013 
+          - Airplane 218 comes into landingtrack 5.
+~~> Minute: 4240.289266112666 
+          - Airplane 209 leave landingtrack 1.
+~~> Minute: 4240.289266112666 
+          - Airplane 217 comes into landingtrack 1.
+~~> Minute: 4250.016961681182 
+          - Airplane 210 leave landingtrack 2.
+~~> Minute: 4250.016961681182 
+          - Airplane 216 comes into landingtrack 2.
+~~> Minute: 4265.424406897339 
+          - Airplane 219 arrive to the airport.
+~~> Minute: 4265.424406897339 
+          - Airplane 219 waiting to come in.
+~~> Minute: 4278.25940978044 
+          - Airplane 220 arrive to the airport.
+~~> Minute: 4278.25940978044 
+          - Airplane 220 waiting to come in.
+~~> Minute: 4279.529548783692 
+          - Airplane 221 arrive to the airport.
+~~> Minute: 4279.529548783692 
+          - Airplane 221 waiting to come in.
+~~> Minute: 4281.514436459101 
+          - Airplane 217 leave landingtrack 1.
+~~> Minute: 4281.514436459101 
+          - Airplane 221 comes into landingtrack 1.
+~~> Minute: 4285.900352140272 
+          - Airplane 213 leave landingtrack 3.
+~~> Minute: 4285.900352140272 
+          - Airplane 220 comes into landingtrack 3.
+~~> Minute: 4286.463147141213 
+          - Airplane 216 leave landingtrack 2.
+~~> Minute: 4286.463147141213 
+          - Airplane 219 comes into landingtrack 2.
+~~> Minute: 4317.126302061969 
+          - Airplane 214 leave landingtrack 4.
+~~> Minute: 4317.126302061969 
+          - Airplane 215 comes into landingtrack 4.
+~~> Minute: 4327.254195305705 
+          - Airplane 219 leave landingtrack 2.
+~~> Minute: 4342.769730543382 
+          - Airplane 218 leave landingtrack 5.
+~~> Minute: 4349.196146599042 
+          - Airplane 222 arrive to the airport.
+~~> Minute: 4349.196146599042 
+          - Airplane 222 comes into landingtrack 5.
+~~> Minute: 4350.006655988757 
+          - Airplane 220 leave landingtrack 3.
+~~> Minute: 4350.919783703851 
+          - Airplane 221 leave landingtrack 1.
+~~> Minute: 4360.166853815366 
+          - Airplane 223 arrive to the airport.
+~~> Minute: 4360.166853815366 
+          - Airplane 223 comes into landingtrack 2.
+~~> Minute: 4402.582316958968 
+          - Airplane 215 leave landingtrack 4.
+~~> Minute: 4423.975888673817 
+          - Airplane 222 leave landingtrack 5.
+~~> Minute: 4433.430479876894 
+          - Airplane 224 arrive to the airport.
+~~> Minute: 4433.430479876894 
+          - Airplane 224 comes into landingtrack 4.
+~~> Minute: 4442.881665724972 
+          - Airplane 225 arrive to the airport.
+~~> Minute: 4442.881665724972 
+          - Airplane 225 comes into landingtrack 1.
+~~> Minute: 4460.930309569157 
+          - Airplane 223 leave landingtrack 2.
+~~> Minute: 4484.473412909621 
+          - Airplane 224 leave landingtrack 4.
+~~> Minute: 4488.341826755184 
+          - Airplane 226 arrive to the airport.
+~~> Minute: 4488.341826755184 
+          - Airplane 226 comes into landingtrack 3.
+~~> Minute: 4492.3252677386945 
+          - Airplane 225 leave landingtrack 1.
+~~> Minute: 4515.692486573898 
+          - Airplane 227 arrive to the airport.
+~~> Minute: 4515.692486573898 
+          - Airplane 227 comes into landingtrack 2.
+~~> Minute: 4537.284966893184 
+          - Airplane 228 arrive to the airport.
+~~> Minute: 4537.284966893184 
+          - Airplane 228 comes into landingtrack 1.
+~~> Minute: 4542.233180970589 
+          - Airplane 229 arrive to the airport.
+~~> Minute: 4542.233180970589 
+          - Airplane 229 comes into landingtrack 4.
+~~> Minute: 4543.425000988505 
+          - Airplane 230 arrive to the airport.
+~~> Minute: 4543.425000988505 
+          - Airplane 230 comes into landingtrack 5.
+~~> Minute: 4546.198607148686 
+          - Airplane 226 leave landingtrack 3.
+~~> Minute: 4580.931873817013 
+          - Airplane 231 arrive to the airport.
+~~> Minute: 4580.931873817013 
+          - Airplane 231 comes into landingtrack 3.
+~~> Minute: 4582.876227368821 
+          - Airplane 228 leave landingtrack 1.
+~~> Minute: 4589.1128502878855 
+          - Airplane 232 arrive to the airport.
+~~> Minute: 4589.1128502878855 
+          - Airplane 232 comes into landingtrack 1.
+~~> Minute: 4594.374458834323 
+          - Airplane 229 leave landingtrack 4.
+~~> Minute: 4595.274467968098 
+          - Airplane 230 leave landingtrack 5.
+~~> Minute: 4636.450220829809 
+          - Airplane 227 leave landingtrack 2.
+~~> Minute: 4640.800559366694 
+          - Airplane 233 arrive to the airport.
+~~> Minute: 4640.800559366694 
+          - Airplane 233 comes into landingtrack 4.
+~~> Minute: 4651.294471771485 
+          - Airplane 232 leave landingtrack 1.
+~~> Minute: 4665.092782569194 
+          - Airplane 231 leave landingtrack 3.
+~~> Minute: 4672.355200454196 
+          - Airplane 234 arrive to the airport.
+~~> Minute: 4672.355200454196 
+          - Airplane 234 comes into landingtrack 5.
+~~> Minute: 4675.237920675168 
+          - Airplane 235 arrive to the airport.
+~~> Minute: 4675.237920675168 
+          - Airplane 235 comes into landingtrack 3.
+~~> Minute: 4686.535871213472 
+          - Airplane 236 arrive to the airport.
+~~> Minute: 4686.535871213472 
+          - Airplane 236 comes into landingtrack 2.
+~~> Minute: 4696.535689668815 
+          - Airplane 237 arrive to the airport.
+~~> Minute: 4696.535689668815 
+          - Airplane 237 comes into landingtrack 1.
+~~> Minute: 4707.509113665962 
+          - Airplane 234 leave landingtrack 5.
+~~> Minute: 4737.461007307377 
+          - Airplane 236 leave landingtrack 2.
+~~> Minute: 4749.943128990958 
+          - Airplane 235 leave landingtrack 3.
+~~> Minute: 4753.5667642588505 
+          - Airplane 238 arrive to the airport.
+~~> Minute: 4753.5667642588505 
+          - Airplane 238 comes into landingtrack 2.
+~~> Minute: 4755.43931250835 
+          - Airplane 237 leave landingtrack 1.
+~~> Minute: 4757.010425292543 
+          - Airplane 239 arrive to the airport.
+~~> Minute: 4757.010425292543 
+          - Airplane 239 comes into landingtrack 3.
+~~> Minute: 4763.134604035491 
+          - Airplane 233 leave landingtrack 4.
+~~> Minute: 4777.3636824082605 
+          - Airplane 240 arrive to the airport.
+~~> Minute: 4777.3636824082605 
+          - Airplane 240 comes into landingtrack 5.
+~~> Minute: 4781.011270202131 
+          - Airplane 241 arrive to the airport.
+~~> Minute: 4781.011270202131 
+          - Airplane 241 comes into landingtrack 1.
+~~> Minute: 4784.045646753021 
+          - Airplane 242 arrive to the airport.
+~~> Minute: 4784.045646753021 
+          - Airplane 242 comes into landingtrack 4.
+~~> Minute: 4800.671255003424 
+          - Airplane 243 arrive to the airport.
+~~> Minute: 4800.671255003424 
+          - Airplane 243 waiting to come in.
+~~> Minute: 4804.825674655765 
+          - Airplane 244 arrive to the airport.
+~~> Minute: 4804.825674655765 
+          - Airplane 244 waiting to come in.
+~~> Minute: 4805.695786562504 
+          - Airplane 238 leave landingtrack 2.
+~~> Minute: 4805.695786562504 
+          - Airplane 244 comes into landingtrack 2.
+~~> Minute: 4829.427885500007 
+          - Airplane 240 leave landingtrack 5.
+~~> Minute: 4829.427885500007 
+          - Airplane 243 comes into landingtrack 5.
+~~> Minute: 4836.9692939934785 
+          - Airplane 244 leave landingtrack 2.
+~~> Minute: 4849.626349167869 
+          - Airplane 245 arrive to the airport.
+~~> Minute: 4849.626349167869 
+          - Airplane 245 comes into landingtrack 2.
+~~> Minute: 4854.68108585836 
+          - Airplane 246 arrive to the airport.
+~~> Minute: 4854.68108585836 
+          - Airplane 246 waiting to come in.
+~~> Minute: 4859.094567858004 
+          - Airplane 239 leave landingtrack 3.
+~~> Minute: 4859.094567858004 
+          - Airplane 246 comes into landingtrack 3.
+~~> Minute: 4863.93224328999 
+          - Airplane 241 leave landingtrack 1.
+~~> Minute: 4880.599050621127 
+          - Airplane 247 arrive to the airport.
+~~> Minute: 4880.599050621127 
+          - Airplane 247 comes into landingtrack 1.
+~~> Minute: 4896.301475827119 
+          - Airplane 248 arrive to the airport.
+~~> Minute: 4896.301475827119 
+          - Airplane 248 waiting to come in.
+~~> Minute: 4898.732266383848 
+          - Airplane 249 arrive to the airport.
+~~> Minute: 4898.732266383848 
+          - Airplane 249 waiting to come in.
+~~> Minute: 4906.795940410455 
+          - Airplane 242 leave landingtrack 4.
+~~> Minute: 4906.795940410455 
+          - Airplane 249 comes into landingtrack 4.
+~~> Minute: 4940.927049092514 
+          - Airplane 250 arrive to the airport.
+~~> Minute: 4940.927049092514 
+          - Airplane 250 waiting to come in.
+~~> Minute: 4945.337278525166 
+          - Airplane 251 arrive to the airport.
+~~> Minute: 4945.337278525166 
+          - Airplane 251 waiting to come in.
+~~> Minute: 4954.736018163986 
+          - Airplane 247 leave landingtrack 1.
+~~> Minute: 4954.736018163986 
+          - Airplane 251 comes into landingtrack 1.
+~~> Minute: 4955.3952571649015 
+          - Airplane 252 arrive to the airport.
+~~> Minute: 4955.3952571649015 
+          - Airplane 252 waiting to come in.
+~~> Minute: 4965.586800255572 
+          - Airplane 253 arrive to the airport.
+~~> Minute: 4965.586800255572 
+          - Airplane 253 waiting to come in.
+~~> Minute: 4968.312415791786 
+          - Airplane 243 leave landingtrack 5.
+~~> Minute: 4968.312415791786 
+          - Airplane 253 comes into landingtrack 5.
+~~> Minute: 4987.90160615113 
+          - Airplane 245 leave landingtrack 2.
+~~> Minute: 4987.90160615113 
+          - Airplane 252 comes into landingtrack 2.
+~~> Minute: 4995.3703501382 
+          - Airplane 246 leave landingtrack 3.
+~~> Minute: 4995.3703501382 
+          - Airplane 250 comes into landingtrack 3.
+~~> Minute: 5011.0045990087765 
+          - Airplane 254 arrive to the airport.
+~~> Minute: 5011.0045990087765 
+          - Airplane 254 waiting to come in.
+~~> Minute: 5013.351506105618 
+          - Airplane 249 leave landingtrack 4.
+~~> Minute: 5013.351506105618 
+          - Airplane 254 comes into landingtrack 4.
+~~> Minute: 5018.081964702543 
+          - Airplane 252 leave landingtrack 2.
+~~> Minute: 5018.081964702543 
+          - Airplane 248 comes into landingtrack 2.
+~~> Minute: 5044.696323605795 
+          - Airplane 251 leave landingtrack 1.
+~~> Minute: 5047.991667439741 
+          - Airplane 253 leave landingtrack 5.
+~~> Minute: 5054.698871683126 
+          - Airplane 255 arrive to the airport.
+~~> Minute: 5054.698871683126 
+          - Airplane 255 comes into landingtrack 1.
+~~> Minute: 5057.3984369019 
+          - Airplane 256 arrive to the airport.
+~~> Minute: 5057.3984369019 
+          - Airplane 256 comes into landingtrack 5.
+~~> Minute: 5057.9610415656625 
+          - Airplane 257 arrive to the airport.
+~~> Minute: 5057.9610415656625 
+          - Airplane 257 waiting to come in.
+~~> Minute: 5058.484448338237 
+          - Airplane 250 leave landingtrack 3.
+~~> Minute: 5058.484448338237 
+          - Airplane 257 comes into landingtrack 3.
+~~> Minute: 5073.467676608287 
+          - Airplane 248 leave landingtrack 2.
+~~> Minute: 5086.307067954125 
+          - Airplane 258 arrive to the airport.
+~~> Minute: 5086.307067954125 
+          - Airplane 258 comes into landingtrack 2.
+~~> Minute: 5091.547388949392 
+          - Airplane 254 leave landingtrack 4.
+~~> Minute: 5093.542496291439 
+          - Airplane 256 leave landingtrack 5.
+~~> Minute: 5097.862107932777 
+          - Airplane 255 leave landingtrack 1.
+~~> Minute: 5141.020556245604 
+          - Airplane 259 arrive to the airport.
+~~> Minute: 5141.020556245604 
+          - Airplane 259 comes into landingtrack 4.
+~~> Minute: 5152.121811109272 
+          - Airplane 260 arrive to the airport.
+~~> Minute: 5152.121811109272 
+          - Airplane 260 comes into landingtrack 1.
+~~> Minute: 5155.96721869817 
+          - Airplane 261 arrive to the airport.
+~~> Minute: 5155.96721869817 
+          - Airplane 261 comes into landingtrack 5.
+~~> Minute: 5164.437203942832 
+          - Airplane 257 leave landingtrack 3.
+~~> Minute: 5186.691642745545 
+          - Airplane 258 leave landingtrack 2.
+~~> Minute: 5188.1951876716885 
+          - Airplane 262 arrive to the airport.
+~~> Minute: 5188.1951876716885 
+          - Airplane 262 comes into landingtrack 3.
+~~> Minute: 5195.127799762545 
+          - Airplane 259 leave landingtrack 4.
+~~> Minute: 5227.243105909941 
+          - Airplane 260 leave landingtrack 1.
+~~> Minute: 5242.052254975222 
+          - Airplane 261 leave landingtrack 5.
+~~> Minute: 5245.702181790684 
+          - Airplane 263 arrive to the airport.
+~~> Minute: 5245.702181790684 
+          - Airplane 263 comes into landingtrack 1.
+~~> Minute: 5250.0067482105 
+          - Airplane 264 arrive to the airport.
+~~> Minute: 5250.0067482105 
+          - Airplane 264 comes into landingtrack 4.
+~~> Minute: 5251.9460698828125 
+          - Airplane 265 arrive to the airport.
+~~> Minute: 5251.9460698828125 
+          - Airplane 265 comes into landingtrack 2.
+~~> Minute: 5252.121739424385 
+          - Airplane 266 arrive to the airport.
+~~> Minute: 5252.121739424385 
+          - Airplane 266 comes into landingtrack 5.
+~~> Minute: 5279.346407728907 
+          - Airplane 267 arrive to the airport.
+~~> Minute: 5279.346407728907 
+          - Airplane 267 waiting to come in.
+~~> Minute: 5291.953259886415 
+          - Airplane 265 leave landingtrack 2.
+~~> Minute: 5291.953259886415 
+          - Airplane 267 comes into landingtrack 2.
+~~> Minute: 5295.819246408337 
+          - Airplane 266 leave landingtrack 5.
+~~> Minute: 5295.820469028861 
+          - Airplane 262 leave landingtrack 3.
+~~> Minute: 5312.7748831548115 
+          - Airplane 264 leave landingtrack 4.
+~~> Minute: 5315.225948893293 
+          - Airplane 268 arrive to the airport.
+~~> Minute: 5315.225948893293 
+          - Airplane 268 comes into landingtrack 3.
+~~> Minute: 5323.758303904335 
+          - Airplane 269 arrive to the airport.
+~~> Minute: 5323.758303904335 
+          - Airplane 269 comes into landingtrack 5.
+~~> Minute: 5345.89055197116 
+          - Airplane 263 leave landingtrack 1.
+~~> Minute: 5358.587743295161 
+          - Airplane 270 arrive to the airport.
+~~> Minute: 5358.587743295161 
+          - Airplane 270 comes into landingtrack 1.
+~~> Minute: 5382.2620436220905 
+          - Airplane 269 leave landingtrack 5.
+~~> Minute: 5386.518029037392 
+          - Airplane 271 arrive to the airport.
+~~> Minute: 5386.518029037392 
+          - Airplane 271 comes into landingtrack 5.
+~~> Minute: 5399.122501403038 
+          - Airplane 272 arrive to the airport.
+~~> Minute: 5399.122501403038 
+          - Airplane 272 comes into landingtrack 4.
+~~> Minute: 5407.664228219723 
+          - Airplane 268 leave landingtrack 3.
+~~> Minute: 5432.346683714539 
+          - Airplane 273 arrive to the airport.
+~~> Minute: 5432.346683714539 
+          - Airplane 273 comes into landingtrack 3.
+~~> Minute: 5438.044136060747 
+          - Airplane 274 arrive to the airport.
+~~> Minute: 5438.044136060747 
+          - Airplane 274 waiting to come in.
+~~> Minute: 5444.750438977568 
+          - Airplane 267 leave landingtrack 2.
+~~> Minute: 5444.750438977568 
+          - Airplane 274 comes into landingtrack 2.
+~~> Minute: 5449.911845374853 
+          - Airplane 271 leave landingtrack 5.
+~~> Minute: 5451.07539929699 
+          - Airplane 270 leave landingtrack 1.
+~~> Minute: 5454.600917032823 
+          - Airplane 275 arrive to the airport.
+~~> Minute: 5454.600917032823 
+          - Airplane 275 comes into landingtrack 5.
+~~> Minute: 5485.955861420415 
+          - Airplane 274 leave landingtrack 2.
+~~> Minute: 5486.643658783382 
+          - Airplane 272 leave landingtrack 4.
+~~> Minute: 5489.847564582963 
+          - Airplane 275 leave landingtrack 5.
+~~> Minute: 5492.998288675379 
+          - Airplane 276 arrive to the airport.
+~~> Minute: 5492.998288675379 
+          - Airplane 276 comes into landingtrack 2.
+~~> Minute: 5496.173239722975 
+          - Airplane 277 arrive to the airport.
+~~> Minute: 5496.173239722975 
+          - Airplane 277 comes into landingtrack 1.
+~~> Minute: 5520.57612078106 
+          - Airplane 278 arrive to the airport.
+~~> Minute: 5520.57612078106 
+          - Airplane 278 comes into landingtrack 5.
+~~> Minute: 5531.530273161007 
+          - Airplane 273 leave landingtrack 3.
+~~> Minute: 5541.779303440683 
+          - Airplane 279 arrive to the airport.
+~~> Minute: 5541.779303440683 
+          - Airplane 279 comes into landingtrack 4.
+~~> Minute: 5547.376080788061 
+          - Airplane 280 arrive to the airport.
+~~> Minute: 5547.376080788061 
+          - Airplane 280 comes into landingtrack 3.
+~~> Minute: 5555.3958204476685 
+          - Airplane 281 arrive to the airport.
+~~> Minute: 5555.3958204476685 
+          - Airplane 281 waiting to come in.
+~~> Minute: 5557.72607769616 
+          - Airplane 276 leave landingtrack 2.
+~~> Minute: 5557.72607769616 
+          - Airplane 281 comes into landingtrack 2.
+~~> Minute: 5569.15757767189 
+          - Airplane 277 leave landingtrack 1.
+~~> Minute: 5594.481303159447 
+          - Airplane 281 leave landingtrack 2.
+~~> Minute: 5596.606470022477 
+          - Airplane 280 leave landingtrack 3.
+~~> Minute: 5603.9840838715245 
+          - Airplane 282 arrive to the airport.
+~~> Minute: 5603.9840838715245 
+          - Airplane 282 comes into landingtrack 2.
+~~> Minute: 5605.176510589535 
+          - Airplane 283 arrive to the airport.
+~~> Minute: 5605.176510589535 
+          - Airplane 283 comes into landingtrack 3.
+~~> Minute: 5606.810097256278 
+          - Airplane 284 arrive to the airport.
+~~> Minute: 5606.810097256278 
+          - Airplane 284 comes into landingtrack 1.
+~~> Minute: 5611.426355584845 
+          - Airplane 285 arrive to the airport.
+~~> Minute: 5611.426355584845 
+          - Airplane 285 waiting to come in.
+~~> Minute: 5618.324663602946 
+          - Airplane 278 leave landingtrack 5.
+~~> Minute: 5618.324663602946 
+          - Airplane 285 comes into landingtrack 5.
+~~> Minute: 5622.5057441790705 
+          - Airplane 286 arrive to the airport.
+~~> Minute: 5622.5057441790705 
+          - Airplane 286 waiting to come in.
+~~> Minute: 5633.718701941208 
+          - Airplane 282 leave landingtrack 2.
+~~> Minute: 5633.718701941208 
+          - Airplane 286 comes into landingtrack 2.
+~~> Minute: 5636.743440939013 
+          - Airplane 287 arrive to the airport.
+~~> Minute: 5636.743440939013 
+          - Airplane 287 waiting to come in.
+~~> Minute: 5663.254156289592 
+          - Airplane 285 leave landingtrack 5.
+~~> Minute: 5663.254156289592 
+          - Airplane 287 comes into landingtrack 5.
+~~> Minute: 5665.737598938727 
+          - Airplane 279 leave landingtrack 4.
+~~> Minute: 5686.060457933206 
+          - Airplane 283 leave landingtrack 3.
+~~> Minute: 5689.7556358672955 
+          - Airplane 284 leave landingtrack 1.
+~~> Minute: 5713.442083054534 
+          - Airplane 286 leave landingtrack 2.
+~~> Minute: 5727.189295721175 
+          - Airplane 287 leave landingtrack 5.
+~~> Minute: 5742.608604394464 
+          - Airplane 288 arrive to the airport.
+~~> Minute: 5742.608604394464 
+          - Airplane 288 comes into landingtrack 3.
+~~> Minute: 5756.785012637119 
+          - Airplane 289 arrive to the airport.
+~~> Minute: 5756.785012637119 
+          - Airplane 289 comes into landingtrack 2.
+~~> Minute: 5763.252833158871 
+          - Airplane 290 arrive to the airport.
+~~> Minute: 5763.252833158871 
+          - Airplane 290 comes into landingtrack 5.
+~~> Minute: 5768.675366478486 
+          - Airplane 291 arrive to the airport.
+~~> Minute: 5768.675366478486 
+          - Airplane 291 comes into landingtrack 4.
+~~> Minute: 5774.24953216208 
+          - Airplane 292 arrive to the airport.
+~~> Minute: 5774.24953216208 
+          - Airplane 292 comes into landingtrack 1.
+~~> Minute: 5775.317641227489 
+          - Airplane 293 arrive to the airport.
+~~> Minute: 5775.317641227489 
+          - Airplane 293 waiting to come in.
+~~> Minute: 5790.525151464344 
+          - Airplane 294 arrive to the airport.
+~~> Minute: 5790.525151464344 
+          - Airplane 294 waiting to come in.
+~~> Minute: 5803.553794794379 
+          - Airplane 289 leave landingtrack 2.
+~~> Minute: 5803.553794794379 
+          - Airplane 294 comes into landingtrack 2.
+~~> Minute: 5807.6389827091425 
+          - Airplane 288 leave landingtrack 3.
+~~> Minute: 5807.6389827091425 
+          - Airplane 293 comes into landingtrack 3.
+~~> Minute: 5823.5350078701385 
+          - Airplane 290 leave landingtrack 5.
+~~> Minute: 5833.07276070491 
+          - Airplane 292 leave landingtrack 1.
+~~> Minute: 5836.95417758104 
+          - Airplane 293 leave landingtrack 3.
+~~> Minute: 5860.660679096582 
+          - Airplane 295 arrive to the airport.
+~~> Minute: 5860.660679096582 
+          - Airplane 295 comes into landingtrack 5.
+~~> Minute: 5864.793834333857 
+          - Airplane 291 leave landingtrack 4.
+~~> Minute: 5878.194484001122 
+          - Airplane 294 leave landingtrack 2.
+~~> Minute: 5893.316449842146 
+          - Airplane 296 arrive to the airport.
+~~> Minute: 5893.316449842146 
+          - Airplane 296 comes into landingtrack 4.
+~~> Minute: 5898.583607897336 
+          - Airplane 297 arrive to the airport.
+~~> Minute: 5898.583607897336 
+          - Airplane 297 comes into landingtrack 2.
+~~> Minute: 5927.4747995943735 
+          - Airplane 298 arrive to the airport.
+~~> Minute: 5927.4747995943735 
+          - Airplane 298 comes into landingtrack 3.
+~~> Minute: 5937.143079028935 
+          - Airplane 299 arrive to the airport.
+~~> Minute: 5937.143079028935 
+          - Airplane 299 comes into landingtrack 1.
+~~> Minute: 5948.334471496748 
+          - Airplane 296 leave landingtrack 4.
+~~> Minute: 5949.437521570857 
+          - Airplane 300 arrive to the airport.
+~~> Minute: 5949.437521570857 
+          - Airplane 300 comes into landingtrack 4.
+~~> Minute: 5957.324235515652 
+          - Airplane 301 arrive to the airport.
+~~> Minute: 5957.324235515652 
+          - Airplane 301 waiting to come in.
+~~> Minute: 5978.246030415776 
+          - Airplane 302 arrive to the airport.
+~~> Minute: 5978.246030415776 
+          - Airplane 302 waiting to come in.
+~~> Minute: 5978.344474119079 
+          - Airplane 295 leave landingtrack 5.
+~~> Minute: 5978.344474119079 
+          - Airplane 302 comes into landingtrack 5.
+~~> Minute: 5978.362924131238 
+          - Airplane 297 leave landingtrack 2.
+~~> Minute: 5978.362924131238 
+          - Airplane 301 comes into landingtrack 2.
+~~> Minute: 5990.58165278647 
+          - Airplane 303 arrive to the airport.
+~~> Minute: 5990.58165278647 
+          - Airplane 303 waiting to come in.
+~~> Minute: 5993.647931552859 
+          - Airplane 298 leave landingtrack 3.
+~~> Minute: 5993.647931552859 
+          - Airplane 303 comes into landingtrack 3.
+~~> Minute: 5997.695590596771 
+          - Airplane 304 arrive to the airport.
+~~> Minute: 5997.695590596771 
+          - Airplane 304 waiting to come in.
+~~> Minute: 6046.557847339007 
+          - Airplane 302 leave landingtrack 5.
+~~> Minute: 6046.557847339007 
+          - Airplane 304 comes into landingtrack 5.
+~~> Minute: 6057.115742374509 
+          - Airplane 305 arrive to the airport.
+~~> Minute: 6057.115742374509 
+          - Airplane 305 waiting to come in.
+~~> Minute: 6058.664942368381 
+          - Airplane 306 arrive to the airport.
+~~> Minute: 6058.664942368381 
+          - Airplane 306 waiting to come in.
+~~> Minute: 6064.26679300309 
+          - Airplane 307 arrive to the airport.
+~~> Minute: 6064.26679300309 
+          - Airplane 307 waiting to come in.
+~~> Minute: 6070.031511482674 
+          - Airplane 308 arrive to the airport.
+~~> Minute: 6070.031511482674 
+          - Airplane 308 waiting to come in.
+~~> Minute: 6081.276815152744 
+          - Airplane 303 leave landingtrack 3.
+~~> Minute: 6081.276815152744 
+          - Airplane 308 comes into landingtrack 3.
+~~> Minute: 6084.171183372947 
+          - Airplane 299 leave landingtrack 1.
+~~> Minute: 6084.171183372947 
+          - Airplane 307 comes into landingtrack 1.
+~~> Minute: 6091.325011556249 
+          - Airplane 309 arrive to the airport.
+~~> Minute: 6091.325011556249 
+          - Airplane 309 waiting to come in.
+~~> Minute: 6094.074786344596 
+          - Airplane 300 leave landingtrack 4.
+~~> Minute: 6094.074786344596 
+          - Airplane 309 comes into landingtrack 4.
+~~> Minute: 6096.0551586687425 
+          - Airplane 304 leave landingtrack 5.
+~~> Minute: 6096.0551586687425 
+          - Airplane 306 comes into landingtrack 5.
+~~> Minute: 6105.91139685432 
+          - Airplane 310 arrive to the airport.
+~~> Minute: 6105.91139685432 
+          - Airplane 310 waiting to come in.
+~~> Minute: 6114.841952390081 
+          - Airplane 311 arrive to the airport.
+~~> Minute: 6114.841952390081 
+          - Airplane 311 waiting to come in.
+~~> Minute: 6119.847277539536 
+          - Airplane 306 leave landingtrack 5.
+~~> Minute: 6119.847277539536 
+          - Airplane 311 comes into landingtrack 5.
+~~> Minute: 6121.536867502405 
+          - Airplane 312 arrive to the airport.
+~~> Minute: 6121.536867502405 
+          - Airplane 312 waiting to come in.
+~~> Minute: 6121.773633501782 
+          - Airplane 313 arrive to the airport.
+~~> Minute: 6121.773633501782 
+          - Airplane 313 waiting to come in.
+~~> Minute: 6135.474670697374 
+          - Airplane 314 arrive to the airport.
+~~> Minute: 6135.474670697374 
+          - Airplane 314 waiting to come in.
+~~> Minute: 6144.906167465867 
+          - Airplane 315 arrive to the airport.
+~~> Minute: 6144.906167465867 
+          - Airplane 315 waiting to come in.
+~~> Minute: 6146.789666442594 
+          - Airplane 301 leave landingtrack 2.
+~~> Minute: 6146.789666442594 
+          - Airplane 315 comes into landingtrack 2.
+~~> Minute: 6150.384514022822 
+          - Airplane 316 arrive to the airport.
+~~> Minute: 6150.384514022822 
+          - Airplane 316 waiting to come in.
+~~> Minute: 6166.167612196238 
+          - Airplane 317 arrive to the airport.
+~~> Minute: 6166.167612196238 
+          - Airplane 317 waiting to come in.
+~~> Minute: 6170.286620447467 
+          - Airplane 309 leave landingtrack 4.
+~~> Minute: 6170.286620447467 
+          - Airplane 317 comes into landingtrack 4.
+~~> Minute: 6171.6366911293 
+          - Airplane 307 leave landingtrack 1.
+~~> Minute: 6171.6366911293 
+          - Airplane 316 comes into landingtrack 1.
+~~> Minute: 6189.135980064499 
+          - Airplane 311 leave landingtrack 5.
+~~> Minute: 6189.135980064499 
+          - Airplane 314 comes into landingtrack 5.
+~~> Minute: 6189.873580046265 
+          - Airplane 318 arrive to the airport.
+~~> Minute: 6189.873580046265 
+          - Airplane 318 waiting to come in.
+~~> Minute: 6191.480552631975 
+          - Airplane 308 leave landingtrack 3.
+~~> Minute: 6191.480552631975 
+          - Airplane 318 comes into landingtrack 3.
+~~> Minute: 6214.197257414694 
+          - Airplane 315 leave landingtrack 2.
+~~> Minute: 6214.197257414694 
+          - Airplane 313 comes into landingtrack 2.
+~~> Minute: 6225.858201017187 
+          - Airplane 319 arrive to the airport.
+~~> Minute: 6225.858201017187 
+          - Airplane 319 waiting to come in.
+~~> Minute: 6246.935874967288 
+          - Airplane 320 arrive to the airport.
+~~> Minute: 6246.935874967288 
+          - Airplane 320 waiting to come in.
+~~> Minute: 6252.760067089982 
+          - Airplane 314 leave landingtrack 5.
+~~> Minute: 6252.760067089982 
+          - Airplane 320 comes into landingtrack 5.
+~~> Minute: 6260.471288192195 
+          - Airplane 316 leave landingtrack 1.
+~~> Minute: 6260.471288192195 
+          - Airplane 319 comes into landingtrack 1.
+~~> Minute: 6262.266407161534 
+          - Airplane 317 leave landingtrack 4.
+~~> Minute: 6262.266407161534 
+          - Airplane 312 comes into landingtrack 4.
+~~> Minute: 6266.06276991059 
+          - Airplane 313 leave landingtrack 2.
+~~> Minute: 6266.06276991059 
+          - Airplane 310 comes into landingtrack 2.
+~~> Minute: 6302.811056670323 
+          - Airplane 319 leave landingtrack 1.
+~~> Minute: 6302.811056670323 
+          - Airplane 305 comes into landingtrack 1.
+~~> Minute: 6306.895755698521 
+          - Airplane 321 arrive to the airport.
+~~> Minute: 6306.895755698521 
+          - Airplane 321 waiting to come in.
+~~> Minute: 6319.494242882257 
+          - Airplane 322 arrive to the airport.
+~~> Minute: 6319.494242882257 
+          - Airplane 322 waiting to come in.
+~~> Minute: 6328.653040868795 
+          - Airplane 323 arrive to the airport.
+~~> Minute: 6328.653040868795 
+          - Airplane 323 waiting to come in.
+~~> Minute: 6335.627372948205 
+          - Airplane 324 arrive to the airport.
+~~> Minute: 6335.627372948205 
+          - Airplane 324 waiting to come in.
+~~> Minute: 6336.576502327019 
+          - Airplane 318 leave landingtrack 3.
+~~> Minute: 6336.576502327019 
+          - Airplane 324 comes into landingtrack 3.
+~~> Minute: 6336.62933072915 
+          - Airplane 320 leave landingtrack 5.
+~~> Minute: 6336.62933072915 
+          - Airplane 323 comes into landingtrack 5.
+~~> Minute: 6342.2447840571 
+          - Airplane 312 leave landingtrack 4.
+~~> Minute: 6342.2447840571 
+          - Airplane 322 comes into landingtrack 4.
+~~> Minute: 6356.586611578309 
+          - Airplane 325 arrive to the airport.
+~~> Minute: 6356.586611578309 
+          - Airplane 325 waiting to come in.
+~~> Minute: 6357.992215614223 
+          - Airplane 310 leave landingtrack 2.
+~~> Minute: 6357.992215614223 
+          - Airplane 325 comes into landingtrack 2.
+~~> Minute: 6363.332318894763 
+          - Airplane 326 arrive to the airport.
+~~> Minute: 6363.332318894763 
+          - Airplane 326 waiting to come in.
+~~> Minute: 6364.313831121746 
+          - Airplane 324 leave landingtrack 3.
+~~> Minute: 6364.313831121746 
+          - Airplane 326 comes into landingtrack 3.
+~~> Minute: 6374.608225648821 
+          - Airplane 327 arrive to the airport.
+~~> Minute: 6374.608225648821 
+          - Airplane 327 waiting to come in.
+~~> Minute: 6398.35191273376 
+          - Airplane 322 leave landingtrack 4.
+~~> Minute: 6398.35191273376 
+          - Airplane 327 comes into landingtrack 4.
+~~> Minute: 6411.77317922664 
+          - Airplane 305 leave landingtrack 1.
+~~> Minute: 6411.77317922664 
+          - Airplane 321 comes into landingtrack 1.
+~~> Minute: 6415.608589114107 
+          - Airplane 328 arrive to the airport.
+~~> Minute: 6415.608589114107 
+          - Airplane 328 waiting to come in.
+~~> Minute: 6416.266646513909 
+          - Airplane 326 leave landingtrack 3.
+~~> Minute: 6416.266646513909 
+          - Airplane 328 comes into landingtrack 3.
+~~> Minute: 6425.260546075391 
+          - Airplane 325 leave landingtrack 2.
+~~> Minute: 6432.925660489787 
+          - Airplane 329 arrive to the airport.
+~~> Minute: 6432.925660489787 
+          - Airplane 329 comes into landingtrack 2.
+~~> Minute: 6433.9445862428165 
+          - Airplane 330 arrive to the airport.
+~~> Minute: 6433.9445862428165 
+          - Airplane 330 waiting to come in.
+~~> Minute: 6450.866158021217 
+          - Airplane 331 arrive to the airport.
+~~> Minute: 6450.866158021217 
+          - Airplane 331 waiting to come in.
+~~> Minute: 6453.859814665078 
+          - Airplane 332 arrive to the airport.
+~~> Minute: 6453.859814665078 
+          - Airplane 332 waiting to come in.
+~~> Minute: 6454.260788382502 
+          - Airplane 333 arrive to the airport.
+~~> Minute: 6454.260788382502 
+          - Airplane 333 waiting to come in.
+~~> Minute: 6455.560018710833 
+          - Airplane 334 arrive to the airport.
+~~> Minute: 6455.560018710833 
+          - Airplane 334 waiting to come in.
+~~> Minute: 6456.059032351756 
+          - Airplane 321 leave landingtrack 1.
+~~> Minute: 6456.059032351756 
+          - Airplane 334 comes into landingtrack 1.
+~~> Minute: 6474.113945901125 
+          - Airplane 323 leave landingtrack 5.
+~~> Minute: 6474.113945901125 
+          - Airplane 333 comes into landingtrack 5.
+~~> Minute: 6476.62028482942 
+          - Airplane 327 leave landingtrack 4.
+~~> Minute: 6476.62028482942 
+          - Airplane 332 comes into landingtrack 4.
+~~> Minute: 6479.1670556776335 
+          - Airplane 335 arrive to the airport.
+~~> Minute: 6479.1670556776335 
+          - Airplane 335 waiting to come in.
+~~> Minute: 6483.461880064059 
+          - Airplane 329 leave landingtrack 2.
+~~> Minute: 6483.461880064059 
+          - Airplane 335 comes into landingtrack 2.
+~~> Minute: 6516.462212453819 
+          - Airplane 328 leave landingtrack 3.
+~~> Minute: 6516.462212453819 
+          - Airplane 331 comes into landingtrack 3.
+~~> Minute: 6519.419534357197 
+          - Airplane 336 arrive to the airport.
+~~> Minute: 6519.419534357197 
+          - Airplane 336 waiting to come in.
+~~> Minute: 6527.344102011308 
+          - Airplane 335 leave landingtrack 2.
+~~> Minute: 6527.344102011308 
+          - Airplane 336 comes into landingtrack 2.
+~~> Minute: 6529.488025723146 
+          - Airplane 337 arrive to the airport.
+~~> Minute: 6529.488025723146 
+          - Airplane 337 waiting to come in.
+~~> Minute: 6543.230987261727 
+          - Airplane 331 leave landingtrack 3.
+~~> Minute: 6543.230987261727 
+          - Airplane 337 comes into landingtrack 3.
+~~> Minute: 6546.3517819865065 
+          - Airplane 338 arrive to the airport.
+~~> Minute: 6546.3517819865065 
+          - Airplane 338 waiting to come in.
+~~> Minute: 6552.460161476037 
+          - Airplane 334 leave landingtrack 1.
+~~> Minute: 6552.460161476037 
+          - Airplane 338 comes into landingtrack 1.
+~~> Minute: 6559.373925756966 
+          - Airplane 339 arrive to the airport.
+~~> Minute: 6559.373925756966 
+          - Airplane 339 waiting to come in.
+~~> Minute: 6559.640609658594 
+          - Airplane 340 arrive to the airport.
+~~> Minute: 6559.640609658594 
+          - Airplane 340 waiting to come in.
+~~> Minute: 6593.964144921541 
+          - Airplane 333 leave landingtrack 5.
+~~> Minute: 6593.964144921541 
+          - Airplane 340 comes into landingtrack 5.
+~~> Minute: 6597.508043228712 
+          - Airplane 337 leave landingtrack 3.
+~~> Minute: 6597.508043228712 
+          - Airplane 339 comes into landingtrack 3.
+~~> Minute: 6604.008288257037 
+          - Airplane 336 leave landingtrack 2.
+~~> Minute: 6604.008288257037 
+          - Airplane 330 comes into landingtrack 2.
+~~> Minute: 6606.092198345794 
+          - Airplane 338 leave landingtrack 1.
+~~> Minute: 6614.107238567914 
+          - Airplane 332 leave landingtrack 4.
+~~> Minute: 6631.287246625806 
+          - Airplane 341 arrive to the airport.
+~~> Minute: 6631.287246625806 
+          - Airplane 341 comes into landingtrack 4.
+~~> Minute: 6634.216349300765 
+          - Airplane 342 arrive to the airport.
+~~> Minute: 6634.216349300765 
+          - Airplane 342 comes into landingtrack 1.
+~~> Minute: 6636.754480443437 
+          - Airplane 343 arrive to the airport.
+~~> Minute: 6636.754480443437 
+          - Airplane 343 waiting to come in.
+~~> Minute: 6641.3824839162635 
+          - Airplane 344 arrive to the airport.
+~~> Minute: 6641.3824839162635 
+          - Airplane 344 waiting to come in.
+~~> Minute: 6641.866501732717 
+          - Airplane 339 leave landingtrack 3.
+~~> Minute: 6641.866501732717 
+          - Airplane 344 comes into landingtrack 3.
+~~> Minute: 6652.387739349849 
+          - Airplane 330 leave landingtrack 2.
+~~> Minute: 6652.387739349849 
+          - Airplane 343 comes into landingtrack 2.
+~~> Minute: 6679.509449574569 
+          - Airplane 342 leave landingtrack 1.
+~~> Minute: 6688.257644696935 
+          - Airplane 345 arrive to the airport.
+~~> Minute: 6688.257644696935 
+          - Airplane 345 comes into landingtrack 1.
+~~> Minute: 6693.686600816683 
+          - Airplane 343 leave landingtrack 2.
+~~> Minute: 6705.597798394142 
+          - Airplane 346 arrive to the airport.
+~~> Minute: 6705.597798394142 
+          - Airplane 346 comes into landingtrack 2.
+~~> Minute: 6713.77711102183 
+          - Airplane 341 leave landingtrack 4.
+~~> Minute: 6729.506864660018 
+          - Airplane 347 arrive to the airport.
+~~> Minute: 6729.506864660018 
+          - Airplane 347 comes into landingtrack 4.
+~~> Minute: 6755.4168893798505 
+          - Airplane 348 arrive to the airport.
+~~> Minute: 6755.4168893798505 
+          - Airplane 348 waiting to come in.
+~~> Minute: 6758.428917931479 
+          - Airplane 340 leave landingtrack 5.
+~~> Minute: 6758.428917931479 
+          - Airplane 348 comes into landingtrack 5.
+~~> Minute: 6760.216408456143 
+          - Airplane 344 leave landingtrack 3.
+~~> Minute: 6777.23472180986 
+          - Airplane 346 leave landingtrack 2.
+~~> Minute: 6785.732615590039 
+          - Airplane 345 leave landingtrack 1.
+~~> Minute: 6796.422937310474 
+          - Airplane 348 leave landingtrack 5.
+~~> Minute: 6824.183495446243 
+          - Airplane 349 arrive to the airport.
+~~> Minute: 6824.183495446243 
+          - Airplane 349 comes into landingtrack 1.
+~~> Minute: 6830.197412550875 
+          - Airplane 347 leave landingtrack 4.
+~~> Minute: 6856.654291672809 
+          - Airplane 350 arrive to the airport.
+~~> Minute: 6856.654291672809 
+          - Airplane 350 comes into landingtrack 2.
+~~> Minute: 6870.893608657566 
+          - Airplane 351 arrive to the airport.
+~~> Minute: 6870.893608657566 
+          - Airplane 351 comes into landingtrack 3.
+~~> Minute: 6880.887275053679 
+          - Airplane 352 arrive to the airport.
+~~> Minute: 6880.887275053679 
+          - Airplane 352 comes into landingtrack 4.
+~~> Minute: 6894.556366729241 
+          - Airplane 353 arrive to the airport.
+~~> Minute: 6894.556366729241 
+          - Airplane 353 comes into landingtrack 5.
+~~> Minute: 6905.512706988064 
+          - Airplane 354 arrive to the airport.
+~~> Minute: 6905.512706988064 
+          - Airplane 354 waiting to come in.
+~~> Minute: 6924.836085103213 
+          - Airplane 352 leave landingtrack 4.
+~~> Minute: 6924.836085103213 
+          - Airplane 354 comes into landingtrack 4.
+~~> Minute: 6928.456707174447 
+          - Airplane 349 leave landingtrack 1.
+~~> Minute: 6930.809086612865 
+          - Airplane 351 leave landingtrack 3.
+~~> Minute: 6946.512575173581 
+          - Airplane 355 arrive to the airport.
+~~> Minute: 6946.512575173581 
+          - Airplane 355 comes into landingtrack 1.
+~~> Minute: 6950.570428113912 
+          - Airplane 356 arrive to the airport.
+~~> Minute: 6950.570428113912 
+          - Airplane 356 comes into landingtrack 3.
+~~> Minute: 6960.282457434171 
+          - Airplane 350 leave landingtrack 2.
+~~> Minute: 6964.266567212415 
+          - Airplane 357 arrive to the airport.
+~~> Minute: 6964.266567212415 
+          - Airplane 357 comes into landingtrack 2.
+~~> Minute: 6964.291293092843 
+          - Airplane 354 leave landingtrack 4.
+~~> Minute: 6977.560092458464 
+          - Airplane 358 arrive to the airport.
+~~> Minute: 6977.560092458464 
+          - Airplane 358 comes into landingtrack 4.
+~~> Minute: 6982.49811425932 
+          - Airplane 353 leave landingtrack 5.
+~~> Minute: 7017.950044788407 
+          - Airplane 356 leave landingtrack 3.
+~~> Minute: 7021.473667098292 
+          - Airplane 358 leave landingtrack 4.
+~~> Minute: 7024.975897221882 
+          - Airplane 357 leave landingtrack 2.
+~~> Minute: 7045.169174889224 
+          - Airplane 355 leave landingtrack 1.
+~~> Minute: 7045.53982036725 
+          - Airplane 359 arrive to the airport.
+~~> Minute: 7045.53982036725 
+          - Airplane 359 comes into landingtrack 5.
+~~> Minute: 7060.626479056236 
+          - Airplane 360 arrive to the airport.
+~~> Minute: 7060.626479056236 
+          - Airplane 360 comes into landingtrack 1.
+~~> Minute: 7069.628463784842 
+          - Airplane 361 arrive to the airport.
+~~> Minute: 7069.628463784842 
+          - Airplane 361 comes into landingtrack 4.
+~~> Minute: 7072.674883450184 
+          - Airplane 362 arrive to the airport.
+~~> Minute: 7072.674883450184 
+          - Airplane 362 comes into landingtrack 3.
+~~> Minute: 7073.0580986578 
+          - Airplane 363 arrive to the airport.
+~~> Minute: 7073.0580986578 
+          - Airplane 363 comes into landingtrack 2.
+~~> Minute: 7087.644568866344 
+          - Airplane 364 arrive to the airport.
+~~> Minute: 7087.644568866344 
+          - Airplane 364 waiting to come in.
+~~> Minute: 7096.689474986614 
+          - Airplane 359 leave landingtrack 5.
+~~> Minute: 7096.689474986614 
+          - Airplane 364 comes into landingtrack 5.
+~~> Minute: 7102.340899147475 
+          - Airplane 360 leave landingtrack 1.
+~~> Minute: 7107.330007169137 
+          - Airplane 365 arrive to the airport.
+~~> Minute: 7107.330007169137 
+          - Airplane 365 comes into landingtrack 1.
+~~> Minute: 7113.438884647658 
+          - Airplane 363 leave landingtrack 2.
+~~> Minute: 7119.585034699212 
+          - Airplane 361 leave landingtrack 4.
+~~> Minute: 7129.13179778525 
+          - Airplane 364 leave landingtrack 5.
+~~> Minute: 7167.077052633224 
+          - Airplane 366 arrive to the airport.
+~~> Minute: 7167.077052633224 
+          - Airplane 366 comes into landingtrack 4.
+~~> Minute: 7168.345828595352 
+          - Airplane 362 leave landingtrack 3.
+~~> Minute: 7173.587774299167 
+          - Airplane 365 leave landingtrack 1.
+~~> Minute: 7207.114583070755 
+          - Airplane 367 arrive to the airport.
+~~> Minute: 7207.114583070755 
+          - Airplane 367 comes into landingtrack 5.
+~~> Minute: 7207.129761008887 
+          - Airplane 368 arrive to the airport.
+~~> Minute: 7207.129761008887 
+          - Airplane 368 comes into landingtrack 2.
+~~> Minute: 7238.821842121859 
+          - Airplane 366 leave landingtrack 4.
+~~> Minute: 7240.3471877867205 
+          - Airplane 369 arrive to the airport.
+~~> Minute: 7240.3471877867205 
+          - Airplane 369 comes into landingtrack 4.
+~~> Minute: 7244.573277130777 
+          - Airplane 370 arrive to the airport.
+~~> Minute: 7244.573277130777 
+          - Airplane 370 comes into landingtrack 1.
+~~> Minute: 7248.119677302494 
+          - Airplane 367 leave landingtrack 5.
+~~> Minute: 7252.097246602197 
+          - Airplane 368 leave landingtrack 2.
+~~> Minute: 7283.024169912148 
+          - Airplane 371 arrive to the airport.
+~~> Minute: 7283.024169912148 
+          - Airplane 371 comes into landingtrack 5.
+~~> Minute: 7290.630249102918 
+          - Airplane 372 arrive to the airport.
+~~> Minute: 7290.630249102918 
+          - Airplane 372 comes into landingtrack 3.
+~~> Minute: 7297.1252664264175 
+          - Airplane 373 arrive to the airport.
+~~> Minute: 7297.1252664264175 
+          - Airplane 373 comes into landingtrack 2.
+~~> Minute: 7310.285224753017 
+          - Airplane 369 leave landingtrack 4.
+~~> Minute: 7316.156744229612 
+          - Airplane 371 leave landingtrack 5.
+~~> Minute: 7320.142322378349 
+          - Airplane 374 arrive to the airport.
+~~> Minute: 7320.142322378349 
+          - Airplane 374 comes into landingtrack 4.
+~~> Minute: 7321.114603144105 
+          - Airplane 375 arrive to the airport.
+~~> Minute: 7321.114603144105 
+          - Airplane 375 comes into landingtrack 5.
+~~> Minute: 7331.098319875387 
+          - Airplane 376 arrive to the airport.
+~~> Minute: 7331.098319875387 
+          - Airplane 376 waiting to come in.
+~~> Minute: 7345.358933073223 
+          - Airplane 377 arrive to the airport.
+~~> Minute: 7345.358933073223 
+          - Airplane 377 waiting to come in.
+~~> Minute: 7348.938619572654 
+          - Airplane 378 arrive to the airport.
+~~> Minute: 7348.938619572654 
+          - Airplane 378 waiting to come in.
+~~> Minute: 7351.503552802648 
+          - Airplane 373 leave landingtrack 2.
+~~> Minute: 7351.503552802648 
+          - Airplane 378 comes into landingtrack 2.
+~~> Minute: 7357.845236982399 
+          - Airplane 372 leave landingtrack 3.
+~~> Minute: 7357.845236982399 
+          - Airplane 377 comes into landingtrack 3.
+~~> Minute: 7364.018022799821 
+          - Airplane 374 leave landingtrack 4.
+~~> Minute: 7364.018022799821 
+          - Airplane 376 comes into landingtrack 4.
+~~> Minute: 7371.942881554234 
+          - Airplane 375 leave landingtrack 5.
+~~> Minute: 7397.527686072539 
+          - Airplane 378 leave landingtrack 2.
+~~> Minute: 7398.965370370442 
+          - Airplane 370 leave landingtrack 1.
+~~> Minute: 7410.455867582748 
+          - Airplane 377 leave landingtrack 3.
+~~> Minute: 7420.568048008664 
+          - Airplane 379 arrive to the airport.
+~~> Minute: 7420.568048008664 
+          - Airplane 379 comes into landingtrack 5.
+~~> Minute: 7459.756137030951 
+          - Airplane 380 arrive to the airport.
+~~> Minute: 7459.756137030951 
+          - Airplane 380 comes into landingtrack 1.
+~~> Minute: 7460.448269006228 
+          - Airplane 381 arrive to the airport.
+~~> Minute: 7460.448269006228 
+          - Airplane 381 comes into landingtrack 2.
+~~> Minute: 7489.4891565221715 
+          - Airplane 382 arrive to the airport.
+~~> Minute: 7489.4891565221715 
+          - Airplane 382 comes into landingtrack 3.
+~~> Minute: 7490.269856429443 
+          - Airplane 383 arrive to the airport.
+~~> Minute: 7490.269856429443 
+          - Airplane 383 waiting to come in.
+~~> Minute: 7497.880424543685 
+          - Airplane 381 leave landingtrack 2.
+~~> Minute: 7497.880424543685 
+          - Airplane 383 comes into landingtrack 2.
+~~> Minute: 7504.606725727853 
+          - Airplane 384 arrive to the airport.
+~~> Minute: 7504.606725727853 
+          - Airplane 384 waiting to come in.
+~~> Minute: 7507.20784524081 
+          - Airplane 385 arrive to the airport.
+~~> Minute: 7507.20784524081 
+          - Airplane 385 waiting to come in.
+~~> Minute: 7514.75742513036 
+          - Airplane 386 arrive to the airport.
+~~> Minute: 7514.75742513036 
+          - Airplane 386 waiting to come in.
+~~> Minute: 7515.642839181401 
+          - Airplane 379 leave landingtrack 5.
+~~> Minute: 7515.642839181401 
+          - Airplane 386 comes into landingtrack 5.
+~~> Minute: 7521.4810688862835 
+          - Airplane 387 arrive to the airport.
+~~> Minute: 7521.4810688862835 
+          - Airplane 387 waiting to come in.
+~~> Minute: 7541.690636814302 
+          - Airplane 388 arrive to the airport.
+~~> Minute: 7541.690636814302 
+          - Airplane 388 waiting to come in.
+~~> Minute: 7543.612917927315 
+          - Airplane 383 leave landingtrack 2.
+~~> Minute: 7543.612917927315 
+          - Airplane 388 comes into landingtrack 2.
+~~> Minute: 7543.781994758721 
+          - Airplane 380 leave landingtrack 1.
+~~> Minute: 7543.781994758721 
+          - Airplane 387 comes into landingtrack 1.
+~~> Minute: 7552.676722214824 
+          - Airplane 389 arrive to the airport.
+~~> Minute: 7552.676722214824 
+          - Airplane 389 waiting to come in.
+~~> Minute: 7568.64084195899 
+          - Airplane 386 leave landingtrack 5.
+~~> Minute: 7568.64084195899 
+          - Airplane 389 comes into landingtrack 5.
+~~> Minute: 7569.345064277609 
+          - Airplane 382 leave landingtrack 3.
+~~> Minute: 7569.345064277609 
+          - Airplane 385 comes into landingtrack 3.
+~~> Minute: 7586.698960124976 
+          - Airplane 388 leave landingtrack 2.
+~~> Minute: 7586.698960124976 
+          - Airplane 384 comes into landingtrack 2.
+~~> Minute: 7592.35423465646 
+          - Airplane 387 leave landingtrack 1.
+~~> Minute: 7598.494458794801 
+          - Airplane 385 leave landingtrack 3.
+~~> Minute: 7603.647884884698 
+          - Airplane 390 arrive to the airport.
+~~> Minute: 7603.647884884698 
+          - Airplane 390 comes into landingtrack 3.
+~~> Minute: 7612.882344129319 
+          - Airplane 376 leave landingtrack 4.
+~~> Minute: 7640.717272788917 
+          - Airplane 389 leave landingtrack 5.
+~~> Minute: 7666.379993604671 
+          - Airplane 384 leave landingtrack 2.
+~~> Minute: 7679.551512917012 
+          - Airplane 390 leave landingtrack 3.
+~~> Minute: 7698.784333101401 
+          - Airplane 391 arrive to the airport.
+~~> Minute: 7698.784333101401 
+          - Airplane 391 comes into landingtrack 3.
+~~> Minute: 7702.917307657675 
+          - Airplane 392 arrive to the airport.
+~~> Minute: 7702.917307657675 
+          - Airplane 392 comes into landingtrack 2.
+~~> Minute: 7742.8995453797415 
+          - Airplane 393 arrive to the airport.
+~~> Minute: 7742.8995453797415 
+          - Airplane 393 comes into landingtrack 1.
+~~> Minute: 7755.403951411417 
+          - Airplane 394 arrive to the airport.
+~~> Minute: 7755.403951411417 
+          - Airplane 394 comes into landingtrack 5.
+~~> Minute: 7760.177442319374 
+          - Airplane 391 leave landingtrack 3.
+~~> Minute: 7764.495848214266 
+          - Airplane 395 arrive to the airport.
+~~> Minute: 7764.495848214266 
+          - Airplane 395 comes into landingtrack 4.
+~~> Minute: 7765.637120258829 
+          - Airplane 392 leave landingtrack 2.
+~~> Minute: 7771.7267992366915 
+          - Airplane 396 arrive to the airport.
+~~> Minute: 7771.7267992366915 
+          - Airplane 396 comes into landingtrack 3.
+~~> Minute: 7772.860952875898 
+          - Airplane 397 arrive to the airport.
+~~> Minute: 7772.860952875898 
+          - Airplane 397 comes into landingtrack 2.
+~~> Minute: 7815.459911869498 
+          - Airplane 396 leave landingtrack 3.
+~~> Minute: 7820.640376829527 
+          - Airplane 397 leave landingtrack 2.
+~~> Minute: 7826.344518121518 
+          - Airplane 394 leave landingtrack 5.
+~~> Minute: 7828.08453692162 
+          - Airplane 393 leave landingtrack 1.
+~~> Minute: 7859.8820533456455 
+          - Airplane 395 leave landingtrack 4.
+~~> Minute: 7885.80630953026 
+          - Airplane 398 arrive to the airport.
+~~> Minute: 7885.80630953026 
+          - Airplane 398 comes into landingtrack 2.
+~~> Minute: 7903.671558840233 
+          - Airplane 399 arrive to the airport.
+~~> Minute: 7903.671558840233 
+          - Airplane 399 comes into landingtrack 4.
+~~> Minute: 7908.954689708204 
+          - Airplane 400 arrive to the airport.
+~~> Minute: 7908.954689708204 
+          - Airplane 400 comes into landingtrack 5.
+~~> Minute: 7912.363748404507 
+          - Airplane 401 arrive to the airport.
+~~> Minute: 7912.363748404507 
+          - Airplane 401 comes into landingtrack 1.
+~~> Minute: 7932.616003936176 
+          - Airplane 398 leave landingtrack 2.
+~~> Minute: 7943.196819377779 
+          - Airplane 402 arrive to the airport.
+~~> Minute: 7943.196819377779 
+          - Airplane 402 comes into landingtrack 3.
+~~> Minute: 7971.3891579448855 
+          - Airplane 403 arrive to the airport.
+~~> Minute: 7971.3891579448855 
+          - Airplane 403 comes into landingtrack 2.
+~~> Minute: 7971.890214070062 
+          - Airplane 399 leave landingtrack 4.
+~~> Minute: 7972.662480503186 
+          - Airplane 401 leave landingtrack 1.
+~~> Minute: 7976.188498001938 
+          - Airplane 404 arrive to the airport.
+~~> Minute: 7976.188498001938 
+          - Airplane 404 comes into landingtrack 4.
+~~> Minute: 8001.408969500498 
+          - Airplane 402 leave landingtrack 3.
+~~> Minute: 8013.636995206759 
+          - Airplane 405 arrive to the airport.
+~~> Minute: 8013.636995206759 
+          - Airplane 405 comes into landingtrack 1.
+~~> Minute: 8014.227002468161 
+          - Airplane 404 leave landingtrack 4.
+~~> Minute: 8021.592469812956 
+          - Airplane 403 leave landingtrack 2.
+~~> Minute: 8036.40228115474 
+          - Airplane 400 leave landingtrack 5.
+~~> Minute: 8039.924158958143 
+          - Airplane 406 arrive to the airport.
+~~> Minute: 8039.924158958143 
+          - Airplane 406 comes into landingtrack 3.
+~~> Minute: 8040.229458215057 
+          - Airplane 407 arrive to the airport.
+~~> Minute: 8040.229458215057 
+          - Airplane 407 comes into landingtrack 4.
+~~> Minute: 8057.627698493851 
+          - Airplane 408 arrive to the airport.
+~~> Minute: 8057.627698493851 
+          - Airplane 408 comes into landingtrack 5.
+~~> Minute: 8076.072026342951 
+          - Airplane 409 arrive to the airport.
+~~> Minute: 8076.072026342951 
+          - Airplane 409 comes into landingtrack 2.
+~~> Minute: 8088.086344789909 
+          - Airplane 410 arrive to the airport.
+~~> Minute: 8088.086344789909 
+          - Airplane 410 waiting to come in.
+~~> Minute: 8089.8999531078125 
+          - Airplane 405 leave landingtrack 1.
+~~> Minute: 8089.8999531078125 
+          - Airplane 410 comes into landingtrack 1.
+~~> Minute: 8097.175948038873 
+          - Airplane 411 arrive to the airport.
+~~> Minute: 8097.175948038873 
+          - Airplane 411 waiting to come in.
+~~> Minute: 8102.099864714875 
+          - Airplane 406 leave landingtrack 3.
+~~> Minute: 8102.099864714875 
+          - Airplane 411 comes into landingtrack 3.
+~~> Minute: 8108.932364536133 
+          - Airplane 407 leave landingtrack 4.
+~~> Minute: 8125.245757074824 
+          - Airplane 412 arrive to the airport.
+~~> Minute: 8125.245757074824 
+          - Airplane 412 comes into landingtrack 4.
+~~> Minute: 8132.761862385195 
+          - Airplane 408 leave landingtrack 5.
+~~> Minute: 8140.131848833812 
+          - Airplane 413 arrive to the airport.
+~~> Minute: 8140.131848833812 
+          - Airplane 413 comes into landingtrack 5.
+~~> Minute: 8161.357986122409 
+          - Airplane 412 leave landingtrack 4.
+~~> Minute: 8163.506617713049 
+          - Airplane 414 arrive to the airport.
+~~> Minute: 8163.506617713049 
+          - Airplane 414 comes into landingtrack 4.
+~~> Minute: 8164.684187325131 
+          - Airplane 410 leave landingtrack 1.
+~~> Minute: 8181.798685432067 
+          - Airplane 415 arrive to the airport.
+~~> Minute: 8181.798685432067 
+          - Airplane 415 comes into landingtrack 1.
+~~> Minute: 8182.333229686502 
+          - Airplane 411 leave landingtrack 3.
+~~> Minute: 8182.571982497664 
+          - Airplane 413 leave landingtrack 5.
+~~> Minute: 8192.407554795107 
+          - Airplane 416 arrive to the airport.
+~~> Minute: 8192.407554795107 
+          - Airplane 416 comes into landingtrack 5.
+~~> Minute: 8198.930733666075 
+          - Airplane 409 leave landingtrack 2.
+~~> Minute: 8216.26240673619 
+          - Airplane 415 leave landingtrack 1.
+~~> Minute: 8242.048612927316 
+          - Airplane 416 leave landingtrack 5.
+~~> Minute: 8254.745889974658 
+          - Airplane 414 leave landingtrack 4.
+~~> Minute: 8272.022759058995 
+          - Airplane 417 arrive to the airport.
+~~> Minute: 8272.022759058995 
+          - Airplane 417 comes into landingtrack 2.
+~~> Minute: 8279.230363197928 
+          - Airplane 418 arrive to the airport.
+~~> Minute: 8279.230363197928 
+          - Airplane 418 comes into landingtrack 5.
+~~> Minute: 8295.337696089537 
+          - Airplane 419 arrive to the airport.
+~~> Minute: 8295.337696089537 
+          - Airplane 419 comes into landingtrack 4.
+~~> Minute: 8295.370036805274 
+          - Airplane 420 arrive to the airport.
+~~> Minute: 8295.370036805274 
+          - Airplane 420 comes into landingtrack 3.
+~~> Minute: 8302.203811875992 
+          - Airplane 421 arrive to the airport.
+~~> Minute: 8302.203811875992 
+          - Airplane 421 comes into landingtrack 1.
+~~> Minute: 8334.296185813884 
+          - Airplane 418 leave landingtrack 5.
+~~> Minute: 8337.796972798937 
+          - Airplane 422 arrive to the airport.
+~~> Minute: 8337.796972798937 
+          - Airplane 422 comes into landingtrack 5.
+~~> Minute: 8345.585712210572 
+          - Airplane 420 leave landingtrack 3.
+~~> Minute: 8345.922742675168 
+          - Airplane 417 leave landingtrack 2.
+~~> Minute: 8351.079276710572 
+          - Airplane 423 arrive to the airport.
+~~> Minute: 8351.079276710572 
+          - Airplane 423 comes into landingtrack 2.
+~~> Minute: 8383.14903828537 
+          - Airplane 424 arrive to the airport.
+~~> Minute: 8383.14903828537 
+          - Airplane 424 comes into landingtrack 3.
+~~> Minute: 8384.051921092225 
+          - Airplane 422 leave landingtrack 5.
+~~> Minute: 8388.376654668195 
+          - Airplane 425 arrive to the airport.
+~~> Minute: 8388.376654668195 
+          - Airplane 425 comes into landingtrack 5.
+~~> Minute: 8414.689053969067 
+          - Airplane 423 leave landingtrack 2.
+~~> Minute: 8419.11856693807 
+          - Airplane 426 arrive to the airport.
+~~> Minute: 8419.11856693807 
+          - Airplane 426 comes into landingtrack 2.
+~~> Minute: 8426.865562695419 
+          - Airplane 421 leave landingtrack 1.
+~~> Minute: 8427.837225798596 
+          - Airplane 427 arrive to the airport.
+~~> Minute: 8427.837225798596 
+          - Airplane 427 comes into landingtrack 1.
+~~> Minute: 8441.10271227304 
+          - Airplane 428 arrive to the airport.
+~~> Minute: 8441.10271227304 
+          - Airplane 428 waiting to come in.
+~~> Minute: 8444.42670381967 
+          - Airplane 429 arrive to the airport.
+~~> Minute: 8444.42670381967 
+          - Airplane 429 waiting to come in.
+~~> Minute: 8465.274398097898 
+          - Airplane 427 leave landingtrack 1.
+~~> Minute: 8465.274398097898 
+          - Airplane 429 comes into landingtrack 1.
+~~> Minute: 8465.755623657386 
+          - Airplane 430 arrive to the airport.
+~~> Minute: 8465.755623657386 
+          - Airplane 430 waiting to come in.
+~~> Minute: 8469.072813481607 
+          - Airplane 425 leave landingtrack 5.
+~~> Minute: 8469.072813481607 
+          - Airplane 430 comes into landingtrack 5.
+~~> Minute: 8472.9032797134 
+          - Airplane 419 leave landingtrack 4.
+~~> Minute: 8472.9032797134 
+          - Airplane 428 comes into landingtrack 4.
+~~> Minute: 8478.089432590636 
+          - Airplane 431 arrive to the airport.
+~~> Minute: 8478.089432590636 
+          - Airplane 431 waiting to come in.
+~~> Minute: 8513.306815403856 
+          - Airplane 424 leave landingtrack 3.
+~~> Minute: 8513.306815403856 
+          - Airplane 431 comes into landingtrack 3.
+~~> Minute: 8521.021840467785 
+          - Airplane 429 leave landingtrack 1.
+~~> Minute: 8521.191480315476 
+          - Airplane 432 arrive to the airport.
+~~> Minute: 8521.191480315476 
+          - Airplane 432 comes into landingtrack 1.
+~~> Minute: 8525.017863330428 
+          - Airplane 433 arrive to the airport.
+~~> Minute: 8525.017863330428 
+          - Airplane 433 waiting to come in.
+~~> Minute: 8527.946988919317 
+          - Airplane 428 leave landingtrack 4.
+~~> Minute: 8527.946988919317 
+          - Airplane 433 comes into landingtrack 4.
+~~> Minute: 8548.725382775232 
+          - Airplane 426 leave landingtrack 2.
+~~> Minute: 8568.917421316974 
+          - Airplane 434 arrive to the airport.
+~~> Minute: 8568.917421316974 
+          - Airplane 434 comes into landingtrack 2.
+~~> Minute: 8571.657941241034 
+          - Airplane 430 leave landingtrack 5.
+~~> Minute: 8573.249464044771 
+          - Airplane 435 arrive to the airport.
+~~> Minute: 8573.249464044771 
+          - Airplane 435 comes into landingtrack 5.
+~~> Minute: 8578.711321034343 
+          - Airplane 433 leave landingtrack 4.
+~~> Minute: 8591.152030977863 
+          - Airplane 431 leave landingtrack 3.
+~~> Minute: 8598.049028926813 
+          - Airplane 436 arrive to the airport.
+~~> Minute: 8598.049028926813 
+          - Airplane 436 comes into landingtrack 4.
+~~> Minute: 8598.184948531589 
+          - Airplane 437 arrive to the airport.
+~~> Minute: 8598.184948531589 
+          - Airplane 437 comes into landingtrack 3.
+~~> Minute: 8603.629336819564 
+          - Airplane 438 arrive to the airport.
+~~> Minute: 8603.629336819564 
+          - Airplane 438 waiting to come in.
+~~> Minute: 8608.429225232312 
+          - Airplane 439 arrive to the airport.
+~~> Minute: 8608.429225232312 
+          - Airplane 439 waiting to come in.
+~~> Minute: 8614.433056728452 
+          - Airplane 432 leave landingtrack 1.
+~~> Minute: 8614.433056728452 
+          - Airplane 439 comes into landingtrack 1.
+~~> Minute: 8618.64632565399 
+          - Airplane 434 leave landingtrack 2.
+~~> Minute: 8618.64632565399 
+          - Airplane 438 comes into landingtrack 2.
+~~> Minute: 8629.39108874663 
+          - Airplane 435 leave landingtrack 5.
+~~> Minute: 8633.412182268696 
+          - Airplane 437 leave landingtrack 3.
+~~> Minute: 8653.721396237162 
+          - Airplane 440 arrive to the airport.
+~~> Minute: 8653.721396237162 
+          - Airplane 440 comes into landingtrack 3.
+~~> Minute: 8656.562555060742 
+          - Airplane 439 leave landingtrack 1.
+~~> Minute: 8681.745162521298 
+          - Airplane 441 arrive to the airport.
+~~> Minute: 8681.745162521298 
+          - Airplane 441 comes into landingtrack 1.
+~~> Minute: 8682.345875576972 
+          - Airplane 436 leave landingtrack 4.
+~~> Minute: 8694.08775268903 
+          - Airplane 442 arrive to the airport.
+~~> Minute: 8694.08775268903 
+          - Airplane 442 comes into landingtrack 4.
+~~> Minute: 8707.93350653158 
+          - Airplane 440 leave landingtrack 3.
+~~> Minute: 8712.584405125706 
+          - Airplane 441 leave landingtrack 1.
+~~> Minute: 8721.37993431336 
+          - Airplane 443 arrive to the airport.
+~~> Minute: 8721.37993431336 
+          - Airplane 443 comes into landingtrack 3.
+~~> Minute: 8728.00202936444 
+          - Airplane 444 arrive to the airport.
+~~> Minute: 8728.00202936444 
+          - Airplane 444 comes into landingtrack 5.
+~~> Minute: 8745.679666929496 
+          - Airplane 445 arrive to the airport.
+~~> Minute: 8745.679666929496 
+          - Airplane 445 comes into landingtrack 1.
+~~> Minute: 8759.833271038066 
+          - Airplane 443 leave landingtrack 3.
+~~> Minute: 8769.316764304163 
+          - Airplane 438 leave landingtrack 2.
+~~> Minute: 8771.014419982534 
+          - Airplane 446 arrive to the airport.
+~~> Minute: 8771.014419982534 
+          - Airplane 446 comes into landingtrack 2.
+~~> Minute: 8803.581783613201 
+          - Airplane 447 arrive to the airport.
+~~> Minute: 8803.581783613201 
+          - Airplane 447 comes into landingtrack 3.
+~~> Minute: 8808.920777062654 
+          - Airplane 446 leave landingtrack 2.
+~~> Minute: 8812.582083724412 
+          - Airplane 445 leave landingtrack 1.
+~~> Minute: 8814.202547781611 
+          - Airplane 448 arrive to the airport.
+~~> Minute: 8814.202547781611 
+          - Airplane 448 comes into landingtrack 2.
+~~> Minute: 8833.858945372041 
+          - Airplane 449 arrive to the airport.
+~~> Minute: 8833.858945372041 
+          - Airplane 449 comes into landingtrack 1.
+~~> Minute: 8841.511909343035 
+          - Airplane 444 leave landingtrack 5.
+~~> Minute: 8846.388397286444 
+          - Airplane 442 leave landingtrack 4.
+~~> Minute: 8874.898047011138 
+          - Airplane 448 leave landingtrack 2.
+~~> Minute: 8878.594469717198 
+          - Airplane 450 arrive to the airport.
+~~> Minute: 8878.594469717198 
+          - Airplane 450 comes into landingtrack 5.
+~~> Minute: 8904.907341323524 
+          - Airplane 451 arrive to the airport.
+~~> Minute: 8904.907341323524 
+          - Airplane 451 comes into landingtrack 4.
+~~> Minute: 8908.235136339155 
+          - Airplane 452 arrive to the airport.
+~~> Minute: 8908.235136339155 
+          - Airplane 452 comes into landingtrack 2.
+~~> Minute: 8914.375702677302 
+          - Airplane 453 arrive to the airport.
+~~> Minute: 8914.375702677302 
+          - Airplane 453 waiting to come in.
+~~> Minute: 8914.441758122884 
+          - Airplane 447 leave landingtrack 3.
+~~> Minute: 8914.441758122884 
+          - Airplane 453 comes into landingtrack 3.
+~~> Minute: 8930.260556323272 
+          - Airplane 450 leave landingtrack 5.
+~~> Minute: 8954.329197172625 
+          - Airplane 453 leave landingtrack 3.
+~~> Minute: 8986.196823912456 
+          - Airplane 452 leave landingtrack 2.
+~~> Minute: 8999.979518690827 
+          - Airplane 451 leave landingtrack 4.
+~~> Minute: 9005.522291998326 
+          - Airplane 449 leave landingtrack 1.
+~~> Minute: 9007.422771762773 
+          - Airplane 454 arrive to the airport.
+~~> Minute: 9007.422771762773 
+          - Airplane 454 comes into landingtrack 1.
+~~> Minute: 9036.589344806522 
+          - Airplane 455 arrive to the airport.
+~~> Minute: 9036.589344806522 
+          - Airplane 455 comes into landingtrack 5.
+~~> Minute: 9038.782580872692 
+          - Airplane 456 arrive to the airport.
+~~> Minute: 9038.782580872692 
+          - Airplane 456 comes into landingtrack 4.
+~~> Minute: 9070.178621141247 
+          - Airplane 457 arrive to the airport.
+~~> Minute: 9070.178621141247 
+          - Airplane 457 comes into landingtrack 3.
+~~> Minute: 9079.504463671115 
+          - Airplane 458 arrive to the airport.
+~~> Minute: 9079.504463671115 
+          - Airplane 458 comes into landingtrack 2.
+~~> Minute: 9122.772649878147 
+          - Airplane 457 leave landingtrack 3.
+~~> Minute: 9125.58393175671 
+          - Airplane 459 arrive to the airport.
+~~> Minute: 9125.58393175671 
+          - Airplane 459 comes into landingtrack 3.
+~~> Minute: 9126.130699874191 
+          - Airplane 456 leave landingtrack 4.
+~~> Minute: 9129.039635289082 
+          - Airplane 454 leave landingtrack 1.
+~~> Minute: 9143.136564126453 
+          - Airplane 460 arrive to the airport.
+~~> Minute: 9143.136564126453 
+          - Airplane 460 comes into landingtrack 1.
+~~> Minute: 9153.193427015776 
+          - Airplane 458 leave landingtrack 2.
+~~> Minute: 9156.434388721613 
+          - Airplane 461 arrive to the airport.
+~~> Minute: 9156.434388721613 
+          - Airplane 461 comes into landingtrack 4.
+~~> Minute: 9159.439130694136 
+          - Airplane 462 arrive to the airport.
+~~> Minute: 9159.439130694136 
+          - Airplane 462 comes into landingtrack 2.
+~~> Minute: 9178.651611536885 
+          - Airplane 455 leave landingtrack 5.
+~~> Minute: 9189.423234255439 
+          - Airplane 459 leave landingtrack 3.
+~~> Minute: 9204.49053106524 
+          - Airplane 460 leave landingtrack 1.
+~~> Minute: 9207.754617593548 
+          - Airplane 463 arrive to the airport.
+~~> Minute: 9207.754617593548 
+          - Airplane 463 comes into landingtrack 5.
+~~> Minute: 9237.226950002017 
+          - Airplane 462 leave landingtrack 2.
+~~> Minute: 9274.300982701123 
+          - Airplane 464 arrive to the airport.
+~~> Minute: 9274.300982701123 
+          - Airplane 464 comes into landingtrack 2.
+~~> Minute: 9274.860943090156 
+          - Airplane 461 leave landingtrack 4.
+~~> Minute: 9308.540853458908 
+          - Airplane 465 arrive to the airport.
+~~> Minute: 9308.540853458908 
+          - Airplane 465 comes into landingtrack 4.
+~~> Minute: 9338.922238160787 
+          - Airplane 466 arrive to the airport.
+~~> Minute: 9338.922238160787 
+          - Airplane 466 comes into landingtrack 3.
+~~> Minute: 9375.546415460452 
+          - Airplane 465 leave landingtrack 4.
+~~> Minute: 9382.062949992534 
+          - Airplane 464 leave landingtrack 2.
+~~> Minute: 9394.058532164006 
+          - Airplane 463 leave landingtrack 5.
+~~> Minute: 9398.12413496331 
+          - Airplane 466 leave landingtrack 3.
+~~> Minute: 9420.603048648643 
+          - Airplane 467 arrive to the airport.
+~~> Minute: 9420.603048648643 
+          - Airplane 467 comes into landingtrack 2.
+~~> Minute: 9432.362800561292 
+          - Airplane 468 arrive to the airport.
+~~> Minute: 9432.362800561292 
+          - Airplane 468 comes into landingtrack 1.
+~~> Minute: 9442.241729444871 
+          - Airplane 469 arrive to the airport.
+~~> Minute: 9442.241729444871 
+          - Airplane 469 comes into landingtrack 3.
+~~> Minute: 9459.450346327008 
+          - Airplane 470 arrive to the airport.
+~~> Minute: 9459.450346327008 
+          - Airplane 470 comes into landingtrack 4.
+~~> Minute: 9472.219424323766 
+          - Airplane 467 leave landingtrack 2.
+~~> Minute: 9473.446455293562 
+          - Airplane 471 arrive to the airport.
+~~> Minute: 9473.446455293562 
+          - Airplane 471 comes into landingtrack 2.
+~~> Minute: 9475.128961299635 
+          - Airplane 472 arrive to the airport.
+~~> Minute: 9475.128961299635 
+          - Airplane 472 comes into landingtrack 5.
+~~> Minute: 9480.16696788432 
+          - Airplane 473 arrive to the airport.
+~~> Minute: 9480.16696788432 
+          - Airplane 473 waiting to come in.
+~~> Minute: 9499.121879159156 
+          - Airplane 474 arrive to the airport.
+~~> Minute: 9499.121879159156 
+          - Airplane 474 waiting to come in.
+~~> Minute: 9506.269454327186 
+          - Airplane 469 leave landingtrack 3.
+~~> Minute: 9506.269454327186 
+          - Airplane 474 comes into landingtrack 3.
+~~> Minute: 9512.453273277 
+          - Airplane 475 arrive to the airport.
+~~> Minute: 9512.453273277 
+          - Airplane 475 waiting to come in.
+~~> Minute: 9518.045933220305 
+          - Airplane 476 arrive to the airport.
+~~> Minute: 9518.045933220305 
+          - Airplane 476 waiting to come in.
+~~> Minute: 9523.464715134804 
+          - Airplane 470 leave landingtrack 4.
+~~> Minute: 9523.464715134804 
+          - Airplane 476 comes into landingtrack 4.
+~~> Minute: 9523.966674787685 
+          - Airplane 471 leave landingtrack 2.
+~~> Minute: 9523.966674787685 
+          - Airplane 475 comes into landingtrack 2.
+~~> Minute: 9536.51556772156 
+          - Airplane 477 arrive to the airport.
+~~> Minute: 9536.51556772156 
+          - Airplane 477 waiting to come in.
+~~> Minute: 9538.837091348058 
+          - Airplane 478 arrive to the airport.
+~~> Minute: 9538.837091348058 
+          - Airplane 478 waiting to come in.
+~~> Minute: 9553.213335340699 
+          - Airplane 472 leave landingtrack 5.
+~~> Minute: 9553.213335340699 
+          - Airplane 478 comes into landingtrack 5.
+~~> Minute: 9564.077117918996 
+          - Airplane 475 leave landingtrack 2.
+~~> Minute: 9564.077117918996 
+          - Airplane 477 comes into landingtrack 2.
+~~> Minute: 9584.089810351932 
+          - Airplane 474 leave landingtrack 3.
+~~> Minute: 9584.089810351932 
+          - Airplane 473 comes into landingtrack 3.
+~~> Minute: 9619.19948146557 
+          - Airplane 479 arrive to the airport.
+~~> Minute: 9619.19948146557 
+          - Airplane 479 waiting to come in.
+~~> Minute: 9623.423531201433 
+          - Airplane 468 leave landingtrack 1.
+~~> Minute: 9623.423531201433 
+          - Airplane 479 comes into landingtrack 1.
+~~> Minute: 9627.795018032863 
+          - Airplane 480 arrive to the airport.
+~~> Minute: 9627.795018032863 
+          - Airplane 480 waiting to come in.
+~~> Minute: 9635.938027780705 
+          - Airplane 473 leave landingtrack 3.
+~~> Minute: 9635.938027780705 
+          - Airplane 480 comes into landingtrack 3.
+~~> Minute: 9640.66130078629 
+          - Airplane 481 arrive to the airport.
+~~> Minute: 9640.66130078629 
+          - Airplane 481 waiting to come in.
+~~> Minute: 9646.466630414645 
+          - Airplane 476 leave landingtrack 4.
+~~> Minute: 9646.466630414645 
+          - Airplane 481 comes into landingtrack 4.
+~~> Minute: 9651.233560378305 
+          - Airplane 477 leave landingtrack 2.
+~~> Minute: 9654.81474659143 
+          - Airplane 482 arrive to the airport.
+~~> Minute: 9654.81474659143 
+          - Airplane 482 comes into landingtrack 2.
+~~> Minute: 9662.935018942335 
+          - Airplane 483 arrive to the airport.
+~~> Minute: 9662.935018942335 
+          - Airplane 483 waiting to come in.
+~~> Minute: 9670.159939211051 
+          - Airplane 484 arrive to the airport.
+~~> Minute: 9670.159939211051 
+          - Airplane 484 waiting to come in.
+~~> Minute: 9670.230737589822 
+          - Airplane 479 leave landingtrack 1.
+~~> Minute: 9670.230737589822 
+          - Airplane 484 comes into landingtrack 1.
+~~> Minute: 9674.415193780982 
+          - Airplane 485 arrive to the airport.
+~~> Minute: 9674.415193780982 
+          - Airplane 485 waiting to come in.
+~~> Minute: 9689.9784131061 
+          - Airplane 486 arrive to the airport.
+~~> Minute: 9689.9784131061 
+          - Airplane 486 waiting to come in.
+~~> Minute: 9693.391300182051 
+          - Airplane 487 arrive to the airport.
+~~> Minute: 9693.391300182051 
+          - Airplane 487 waiting to come in.
+~~> Minute: 9707.056717980486 
+          - Airplane 482 leave landingtrack 2.
+~~> Minute: 9707.056717980486 
+          - Airplane 487 comes into landingtrack 2.
+~~> Minute: 9707.257320075414 
+          - Airplane 480 leave landingtrack 3.
+~~> Minute: 9707.257320075414 
+          - Airplane 486 comes into landingtrack 3.
+~~> Minute: 9707.344957987507 
+          - Airplane 481 leave landingtrack 4.
+~~> Minute: 9707.344957987507 
+          - Airplane 485 comes into landingtrack 4.
+~~> Minute: 9713.689243660112 
+          - Airplane 488 arrive to the airport.
+~~> Minute: 9713.689243660112 
+          - Airplane 488 waiting to come in.
+~~> Minute: 9713.97917014507 
+          - Airplane 489 arrive to the airport.
+~~> Minute: 9713.97917014507 
+          - Airplane 489 waiting to come in.
+~~> Minute: 9720.492786415149 
+          - Airplane 490 arrive to the airport.
+~~> Minute: 9720.492786415149 
+          - Airplane 490 waiting to come in.
+~~> Minute: 9730.464141285789 
+          - Airplane 491 arrive to the airport.
+~~> Minute: 9730.464141285789 
+          - Airplane 491 waiting to come in.
+~~> Minute: 9740.268924974967 
+          - Airplane 478 leave landingtrack 5.
+~~> Minute: 9740.268924974967 
+          - Airplane 491 comes into landingtrack 5.
+~~> Minute: 9741.385298747618 
+          - Airplane 492 arrive to the airport.
+~~> Minute: 9741.385298747618 
+          - Airplane 492 waiting to come in.
+~~> Minute: 9745.001839493323 
+          - Airplane 493 arrive to the airport.
+~~> Minute: 9745.001839493323 
+          - Airplane 493 waiting to come in.
+~~> Minute: 9747.039523129119 
+          - Airplane 494 arrive to the airport.
+~~> Minute: 9747.039523129119 
+          - Airplane 494 waiting to come in.
+~~> Minute: 9758.497458669515 
+          - Airplane 487 leave landingtrack 2.
+~~> Minute: 9758.497458669515 
+          - Airplane 494 comes into landingtrack 2.
+~~> Minute: 9760.133930749273 
+          - Airplane 485 leave landingtrack 4.
+~~> Minute: 9760.133930749273 
+          - Airplane 493 comes into landingtrack 4.
+~~> Minute: 9763.911493391775 
+          - Airplane 484 leave landingtrack 1.
+~~> Minute: 9763.911493391775 
+          - Airplane 492 comes into landingtrack 1.
+~~> Minute: 9764.251398386361 
+          - Airplane 486 leave landingtrack 3.
+~~> Minute: 9764.251398386361 
+          - Airplane 490 comes into landingtrack 3.
+~~> Minute: 9788.28730966676 
+          - Airplane 495 arrive to the airport.
+~~> Minute: 9788.28730966676 
+          - Airplane 495 waiting to come in.
+~~> Minute: 9796.305080401646 
+          - Airplane 490 leave landingtrack 3.
+~~> Minute: 9796.305080401646 
+          - Airplane 495 comes into landingtrack 3.
+~~> Minute: 9803.885319740575 
+          - Airplane 496 arrive to the airport.
+~~> Minute: 9803.885319740575 
+          - Airplane 496 waiting to come in.
+~~> Minute: 9804.55982664553 
+          - Airplane 497 arrive to the airport.
+~~> Minute: 9804.55982664553 
+          - Airplane 497 waiting to come in.
+~~> Minute: 9811.300495577258 
+          - Airplane 491 leave landingtrack 5.
+~~> Minute: 9811.300495577258 
+          - Airplane 497 comes into landingtrack 5.
+~~> Minute: 9813.181521323775 
+          - Airplane 498 arrive to the airport.
+~~> Minute: 9813.181521323775 
+          - Airplane 498 waiting to come in.
+~~> Minute: 9834.686557825155 
+          - Airplane 493 leave landingtrack 4.
+~~> Minute: 9834.686557825155 
+          - Airplane 498 comes into landingtrack 4.
+~~> Minute: 9836.910635243294 
+          - Airplane 492 leave landingtrack 1.
+~~> Minute: 9836.910635243294 
+          - Airplane 496 comes into landingtrack 1.
+~~> Minute: 9840.281765418638 
+          - Airplane 494 leave landingtrack 2.
+~~> Minute: 9840.281765418638 
+          - Airplane 489 comes into landingtrack 2.
+~~> Minute: 9851.699417836675 
+          - Airplane 497 leave landingtrack 5.
+~~> Minute: 9851.699417836675 
+          - Airplane 488 comes into landingtrack 5.
+~~> Minute: 9865.638044112899 
+          - Airplane 495 leave landingtrack 3.
+~~> Minute: 9865.638044112899 
+          - Airplane 483 comes into landingtrack 3.
+~~> Minute: 9868.465628665685 
+          - Airplane 498 leave landingtrack 4.
+~~> Minute: 9889.512011823352 
+          - Airplane 496 leave landingtrack 1.
+~~> Minute: 9891.462170788465 
+          - Airplane 499 arrive to the airport.
+~~> Minute: 9891.462170788465 
+          - Airplane 499 comes into landingtrack 4.
+~~> Minute: 9891.987996754126 
+          - Airplane 500 arrive to the airport.
+~~> Minute: 9891.987996754126 
+          - Airplane 500 comes into landingtrack 1.
+~~> Minute: 9903.552585884461 
+          - Airplane 501 arrive to the airport.
+~~> Minute: 9903.552585884461 
+          - Airplane 501 waiting to come in.
+~~> Minute: 9905.649403383923 
+          - Airplane 488 leave landingtrack 5.
+~~> Minute: 9905.649403383923 
+          - Airplane 501 comes into landingtrack 5.
+~~> Minute: 9913.550677690135 
+          - Airplane 489 leave landingtrack 2.
+~~> Minute: 9914.245881799754 
+          - Airplane 502 arrive to the airport.
+~~> Minute: 9914.245881799754 
+          - Airplane 502 comes into landingtrack 2.
+~~> Minute: 9917.657457373101 
+          - Airplane 483 leave landingtrack 3.
+~~> Minute: 9919.938298713128 
+          - Airplane 503 arrive to the airport.
+~~> Minute: 9919.938298713128 
+          - Airplane 503 comes into landingtrack 3.
+~~> Minute: 9926.04286895025 
+          - Airplane 504 arrive to the airport.
+~~> Minute: 9926.04286895025 
+          - Airplane 504 waiting to come in.
+~~> Minute: 9938.324982934713 
+          - Airplane 505 arrive to the airport.
+~~> Minute: 9938.324982934713 
+          - Airplane 505 waiting to come in.
+~~> Minute: 9942.081302929088 
+          - Airplane 506 arrive to the airport.
+~~> Minute: 9942.081302929088 
+          - Airplane 506 waiting to come in.
+~~> Minute: 9957.841009604448 
+          - Airplane 499 leave landingtrack 4.
+~~> Minute: 9957.841009604448 
+          - Airplane 506 comes into landingtrack 4.
+~~> Minute: 9987.478007773883 
+          - Airplane 507 arrive to the airport.
+~~> Minute: 9987.478007773883 
+          - Airplane 507 waiting to come in.
+~~> Minute: 9987.5900614846 
+          - Airplane 508 arrive to the airport.
+~~> Minute: 9987.5900614846 
+          - Airplane 508 waiting to come in.
+~~> Minute: 9989.840832356254 
+          - Airplane 502 leave landingtrack 2.
+~~> Minute: 9989.840832356254 
+          - Airplane 508 comes into landingtrack 2.
+~~> Minute: 9999.264709546496 
+          - Airplane 501 leave landingtrack 5.
+~~> Minute: 9999.264709546496 
+          - Airplane 507 comes into landingtrack 5.
+~~> Minute: 10010.763098155961 
+          - Airplane 506 leave landingtrack 4.
+~~> Minute: 10010.763098155961 
+          - Airplane 505 comes into landingtrack 4.
+~~> Minute: 10011.828462026237 
+          - Airplane 500 leave landingtrack 1.
+~~> Minute: 10011.828462026237 
+          - Airplane 504 comes into landingtrack 1.
+~~> Minute: 10030.914113420176 
+          - Airplane 509 arrive to the airport.
+~~> Minute: 10030.914113420176 
+          - Airplane 509 waiting to come in.
+~~> Minute: 10037.203197474728 
+          - Airplane 503 leave landingtrack 3.
+~~> Minute: 10037.203197474728 
+          - Airplane 509 comes into landingtrack 3.
+~~> Minute: 10043.203364602436 
+          - Airplane 510 arrive to the airport.
+~~> Minute: 10043.203364602436 
+          - Airplane 510 waiting to come in.
+~~> Minute: 10045.392773269052 
+          - Airplane 508 leave landingtrack 2.
+~~> Minute: 10045.392773269052 
+          - Airplane 510 comes into landingtrack 2.
+~~> Minute: 10055.035492458326 
+          - Airplane 504 leave landingtrack 1.
+~~> Minute: 10056.741451487835 
+          - Airplane 507 leave landingtrack 5.
+~~> Minute: 10064.502174404788 
+          - Airplane 511 arrive to the airport.
+~~> Minute: 10064.502174404788 
+          - Airplane 511 comes into landingtrack 5.
+~~> Minute: 10073.400839890466 
+          - Airplane 505 leave landingtrack 4.
+~~> Minute: 10079.047563968272 
+          - Airplane 512 arrive to the airport.
+~~> Minute: 10079.047563968272 
+          - Airplane 512 comes into landingtrack 1.
+~~> Minute: 10086.339988443604 
+          - Airplane 509 leave landingtrack 3.
+## End simulation.
