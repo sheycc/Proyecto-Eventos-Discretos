@@ -1,6 +1,7 @@
 import math
 from random import random
 
+# Variables aletorias
 def norm_distribution(m, x):
     r = 0
     while 1:

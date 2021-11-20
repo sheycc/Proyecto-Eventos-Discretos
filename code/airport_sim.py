@@ -1,6 +1,7 @@
 from utils import *
 from random import choice  
 
+# Simulation
 def sim(t, rnd = False):
     t_sim, n_a, bag = 0, 0, []
     a = dict([(i, []) for i in range(5)])
@@ -30,9 +31,10 @@ def sim(t, rnd = False):
                 track_info[i] = n_a
                 f.writelines(f"~~> Minute: {t_sim} \n")
                 f.writelines(f"          - Airplane {track_info[i]} comes into landingtrack {i + 1}.\n")
-
+                
+                # call v.a 
                 norm_dist = norm_distribution(10, 5) + norm_distribution(10, 5)
-                expo_dist_inv = expo_distribution(1/15) * unif_distribution([(0, 0.9), (1, 0.1)]) #por unifom en vez d inverse
+                expo_dist_inv = expo_distribution(1/15) * unif_distribution([(0, 0.9), (1, 0.1)]) 
                 y = norm_dist + expo_dist_inv + max(expo_distribution(1/30), expo_distribution(1/30))
                 t_d[i] = y + t_sim
 
@@ -55,6 +57,7 @@ def sim(t, rnd = False):
                 f.writelines(f"~~> Minute: {t_sim} \n")
                 f.writelines(f"          - Airplane {track_info[p]} comes into landingtrack {p + 1}.\n")
 
+                # call v.a
                 norm_dist = norm_distribution(10, 5) + norm_distribution(10, 5)
                 expo_dist_inv = expo_distribution(1/15) * unif_distribution([(0, 0.9), (1, 0.1)])
                 y = norm_dist + expo_dist_inv + max(expo_distribution(1/30), expo_distribution(1/30))
